@@ -1,0 +1,571 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kubrick\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-15 23:08+0100\n"
+"PO-Revision-Date: 2008-06-15 23:16+0100\n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: Dave Ligthart <info@daveligthart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SearchPath-0: ../view/dlmenu\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../view/dlmenu/404.php:2
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - Niet gevonden"
+
+#: ../view/dlmenu/archive.php:9
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Archief voor de &#8216;%s&#8217; Categorie"
+
+#: ../view/dlmenu/archive.php:11
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Posts Getagged &#8216;%s&#8217;"
+
+#: ../view/dlmenu/archive.php:13
+#: ../view/dlmenu/comments.php:37
+#: ../view/dlmenu/content.php:10
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: ../view/dlmenu/archive.php:15
+msgid "F, Y"
+msgstr "F, Y"
+
+#: ../view/dlmenu/archive.php:17
+msgid "Y"
+msgstr "Y"
+
+#: ../view/dlmenu/archive.php:19
+msgid "Author Archive"
+msgstr "Auteur Archief"
+
+#: ../view/dlmenu/archive.php:21
+msgid "Blog Archives"
+msgstr "Blog Archieven"
+
+#: ../view/dlmenu/archive.php:26
+#: ../view/dlmenu/archive.php:46
+#: ../view/dlmenu/search.php:9
+#: ../view/dlmenu/search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Oude toevoegingen"
+
+#: ../view/dlmenu/archive.php:27
+#: ../view/dlmenu/archive.php:47
+#: ../view/dlmenu/search.php:10
+#: ../view/dlmenu/search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "Nieuwe toevoegingen &raquo;"
+
+#: ../view/dlmenu/archive.php:32
+#: ../view/dlmenu/content.php:9
+#: ../view/dlmenu/search.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanente Link naar %s"
+
+#: ../view/dlmenu/archive.php:33
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+msgid "l, F jS, Y"
+msgstr "l, F jS, Y"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#: ../view/dlmenu/single.php:19
+msgid "Tags:"
+msgstr "Tags:"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#, php-format
+msgid "Posted in %s"
+msgstr "Gepost in %s"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+msgid "Edit"
+msgstr "Bewerk"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "No Comments &#187;"
+msgstr "Geen reacties &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "1 Comment &#187;"
+msgstr "1 Reactie &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "% Comments &#187;"
+msgstr "% Reacties &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "Comments Closed"
+msgstr "Reacties zijn gesloten."
+
+#: ../view/dlmenu/archive.php:52
+#: ../view/dlmenu/content.php:41
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#: ../view/dlmenu/archives.php:5
+msgid "Archives by Month:"
+msgstr "Archieven op Maand"
+
+#: ../view/dlmenu/archives.php:10
+msgid "Archives by Subject:"
+msgstr "Archieven op Onderwerp"
+
+#: ../view/dlmenu/attachment.php:13
+#, php-format
+msgid "Permanent Link: %s"
+msgstr "Permanente Link: %s"
+
+#: ../view/dlmenu/attachment.php:17
+#: ../view/dlmenu/content.php:13
+#: ../view/dlmenu/single.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "Lees de overige inhoud van deze toevoeging &raquo;"
+
+#: ../view/dlmenu/attachment.php:19
+#: ../view/dlmenu/single.php:18
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr "Deze toevoeging is gepost %1$s op %2$s om %3$s en is gearchiveerd onder %4$s."
+
+#: ../view/dlmenu/attachment.php:28
+#: ../view/dlmenu/single.php:28
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "Je kan de reactie op dit item volgen via de <a href='%s'>RSS 2.0</a> feed."
+
+#: ../view/dlmenu/attachment.php:32
+#: ../view/dlmenu/single.php:32
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Je kan <a href=\"#respond\">een reactie achterlaten</a>, of <a href=\"%s\" rel=\"trackback\">trackback</a> vanaf je eigen site."
+
+#: ../view/dlmenu/attachment.php:36
+#: ../view/dlmenu/single.php:36
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Reacties zijn gesloten maar je kan wel <a href=\"%s\" rel=\"trackback\">trackback</a> vanaf je eigen site."
+
+#: ../view/dlmenu/attachment.php:40
+#: ../view/dlmenu/single.php:40
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Je kan naar het eind springen en een reactie achterlaten. Pingen is niet toegestaand op het moment."
+
+#: ../view/dlmenu/attachment.php:44
+#: ../view/dlmenu/single.php:44
+msgid "Both comments and pings are currently closed."
+msgstr "Commentaar en pings zijn gesloten."
+
+#: ../view/dlmenu/attachment.php:46
+#: ../view/dlmenu/single.php:46
+msgid "Edit this entry."
+msgstr "Bewerk dit item."
+
+#: ../view/dlmenu/attachment.php:58
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Sorry, er bestaand geen attachments die op jouw criteria van toepassing zijn."
+
+#: ../view/dlmenu/comments-popup.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - Reacties op %2$s"
+
+#: ../view/dlmenu/comments-popup.php:22
+msgid "Comments"
+msgstr "Reacties"
+
+#: ../view/dlmenu/comments-popup.php:24
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed voor reacties op deze post."
+
+#: ../view/dlmenu/comments-popup.php:27
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "The <abbr title=\"Universal Resource Locator\">URL</abbr> om deze entry te TrackBacken: <em>%s</em>"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Comment"
+msgstr "Reactie"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Trackback"
+msgstr "Trackback"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Pingback"
+msgstr "Pingback"
+
+#: ../view/dlmenu/comments-popup.php:45
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "door %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: ../view/dlmenu/comments-popup.php:51
+msgid "No comments yet."
+msgstr "Geen reacties tot nu toe."
+
+#: ../view/dlmenu/comments-popup.php:55
+msgid "Leave a comment"
+msgstr "Een reactie achterlaten"
+
+#: ../view/dlmenu/comments-popup.php:56
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "Regel en paragraaf gaan automatisch op een volgende regel, e-mail adres zal nooit worden getoond,  <acronym title=\"Hypertext Markup Language\">HTML</acronym> toegestaan: <code>%s</code>"
+
+#: ../view/dlmenu/comments-popup.php:60
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "Ingelogd als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Uitloggen\">Uitloggen &raquo;</a>"
+
+#: ../view/dlmenu/comments-popup.php:64
+#: ../view/dlmenu/comments.php:82
+msgid "Name"
+msgstr "Naam"
+
+#: ../view/dlmenu/comments-popup.php:71
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../view/dlmenu/comments-popup.php:76
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: ../view/dlmenu/comments-popup.php:81
+msgid "Your Comment"
+msgstr "Jouw reactie"
+
+#: ../view/dlmenu/comments-popup.php:87
+msgid "Say It!"
+msgstr "Zeg het!"
+
+#: ../view/dlmenu/comments-popup.php:92
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Sorry, het reactieformulier is op het moment gesloten."
+
+#: ../view/dlmenu/comments-popup.php:97
+msgid "Close this window."
+msgstr "Dit venster sluiten."
+
+#: ../view/dlmenu/comments-popup.php:105
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+
+#: ../view/dlmenu/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Deze post is door een wachtwoord afgeschermd. Vul het wachtwoord in om de reacties te bekijken."
+
+#: ../view/dlmenu/comments.php:23
+msgid "No Responses"
+msgstr "Geen Reacties"
+
+#: ../view/dlmenu/comments.php:23
+msgid "One Response"
+msgstr "1 Reactie"
+
+#: ../view/dlmenu/comments.php:23
+msgid "% Responses"
+msgstr "% Reacties"
+
+#: ../view/dlmenu/comments.php:23
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "naar &#8220;%s&#8221;"
+
+#: ../view/dlmenu/comments.php:31
+#, php-format
+msgid "<cite>%s</cite> Says:"
+msgstr "<cite>%s</cite> Zegt:"
+
+#: ../view/dlmenu/comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "Jouw reactie wordt in behandeling genomen."
+
+#: ../view/dlmenu/comments.php:37
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: ../view/dlmenu/comments.php:37
+msgid "edit"
+msgstr "bewerk"
+
+#: ../view/dlmenu/comments.php:59
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: ../view/dlmenu/comments.php:67
+msgid "Leave a Reply"
+msgstr "Een reactie achterlaten"
+
+#: ../view/dlmenu/comments.php:70
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Je moet <a href=\"%s\">ingelogd</a> zijn om een reactie te plaatsen."
+
+#: ../view/dlmenu/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Ingelogd als <a href=\"%1$s\">%2$s</a>."
+
+#: ../view/dlmenu/comments.php:77
+msgid "Log out of this account"
+msgstr "Uit dit account loggen"
+
+#: ../view/dlmenu/comments.php:77
+msgid "Log out &raquo;"
+msgstr "Uitloggen &raquo;"
+
+#: ../view/dlmenu/comments.php:82
+#: ../view/dlmenu/comments.php:85
+msgid "(required)"
+msgstr "(vereist)"
+
+#: ../view/dlmenu/comments.php:85
+msgid "Mail (will not be published)"
+msgstr "Mail (zal niet worden gepubliceerd)"
+
+#: ../view/dlmenu/comments.php:88
+msgid "Website"
+msgstr "Website"
+
+#: ../view/dlmenu/comments.php:92
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Je mag deze tags gebruiken: <code>%s</code>"
+
+#: ../view/dlmenu/comments.php:96
+msgid "Submit Comment"
+msgstr "Verstuur Reactie"
+
+#: ../view/dlmenu/content.php:42
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Sorry, maar je zoekt iets wat niet bestaat."
+
+#: ../view/dlmenu/links.php:4
+msgid "Links:"
+msgstr "Links:"
+
+#: ../view/dlmenu/search.php:6
+msgid "Search Results"
+msgstr "Zoek Resultaten"
+
+#: ../view/dlmenu/search.php:32
+msgid "No posts found. Try a different search?"
+msgstr "Geen posts gevonden. Probeer een andere zoekactie?"
+
+#: ../view/dlmenu/searchform.php:3
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../view/dlmenu/single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, er zijn geen posts gevonden die voldoen aan jouw criteria."
+
+#: ../api.php:20
+msgid " The DL-MENU plugin isn't installed yet."
+msgstr "DL-MENU plugin niet gevonden."
+
+#: ../api.php:30
+msgid "Please copy the \"dlmenu\" directory (which is packed along with this theme)"
+msgstr "Kopieer de directorie \"dlmenu\" (welke bij dit theme is ingesloten)"
+
+#: ../api.php:32
+msgid " to your \"wp-content/plugins\" folder"
+msgstr "naar de \"wp-content/plugins\" folder"
+
+#: ../api.php:34
+msgid " or download it "
+msgstr "of deze downloaden"
+
+#: ../api.php:38
+msgid " here"
+msgstr "dat kan hier"
+
+#: ../api.php:48
+msgid "Go to "
+msgstr "Ga naar"
+
+#: ../api.php:52
+msgid "wp-admin"
+msgstr "wp-admin"
+
+#: ../api.php:56
+msgid " to activate the plugin"
+msgstr " om deze plugin te activeren"
+
+#: ../functions.php:39
+msgid "Next posts &raquo;"
+msgstr "Volgende items &raquo;"
+
+#: ../functions.php:50
+msgid "&laquo; Previous posts"
+msgstr "&laquo; Vorige items"
+
+#: ../sidebar.php:6
+msgid "Please use the dynamic sidebar."
+msgstr "Gaarne de dynamische zijbalk gebruiken. Zie het \"widgets\" menu in wp-admin."
+
+#~ msgid "Author"
+#~ msgstr "Auteur"
+#~ msgid "You are currently browsing the archives for the %s category."
+#~ msgstr "You bekijkt de archieven voor de %s categorie."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the day %3$s."
+#~ msgstr ""
+#~ "Je bekijkt de  <a href=\"%1$s/\">%2$s</a> blog archieven voor de dag %3$s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for %3$s."
+#~ msgstr "Je bekijkt de <a href=\"%1$s/\">%2$s</a> blog archieven voor %3$s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the year %3$s."
+#~ msgstr ""
+#~ "Je bekijkt de <a href=\"%1$s/\">%2$s</a> blog archieven voor het jaar %3"
+#~ "$s."
+#~ msgid ""
+#~ "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for "
+#~ "<strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything "
+#~ "in these search results, you can try one of these links."
+#~ msgstr ""
+#~ "Je hebt gezocht in de <a href=\"%1$s/\">%2$s</a> blog archieven op "
+#~ "<strong>&#8216;%3$s&#8217;</strong>. Als je niets hebt gevonden in deze "
+#~ "zoek resultaten, probeer dan een van deze links."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+#~ msgstr "You bekijkt de <a href=\"%1$s/\">%2$s</a> blog archieven."
+#~ msgid "Pages"
+#~ msgstr "Pagina's"
+#~ msgid "Archives"
+#~ msgstr "Archieven"
+#~ msgid "Categories"
+#~ msgstr "Categorieën"
+#~ msgid "Meta"
+#~ msgstr "Meta"
+#~ msgid "This page validates as XHTML 1.0 Transitional"
+#~ msgstr "Deze pagina is XHTML 1.0 Transitioneel"
+#~ msgid ""
+#~ "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+#~ msgstr ""
+#~ "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+#~ msgid "XHTML Friends Network"
+#~ msgstr "XHTML Friends Network"
+#~ msgid "XFN"
+#~ msgstr "XFN"
+#~ msgid ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgstr "Powered by WordPress"
+#~ msgid "Please"
+#~ msgstr "Graag"
+#~ msgid "activate"
+#~ msgstr "activeren"
+#~ msgid "Archive for %s|Daily archive page"
+#~ msgstr "Archief voor %s|Dagelijkse archief pagina"
+#~ msgid "Archive for %s|Monthly archive page"
+#~ msgstr "Archief voor %s|Maandelijkse archief pagina"
+#~ msgid "Archive for %s|Yearly archive page"
+#~ msgstr "Archief voor %s|Jaarlijkse archief pagina"
+#~ msgid "%1$s is proudly powered by %2$s"
+#~ msgstr "%1$s is proudly powered by %2$s"
+#~ msgid "%1$s and %2$s."
+#~ msgstr "%1$s en %2$s."
+#~ msgid "Entries (RSS)"
+#~ msgstr "Items (RSS)"
+#~ msgid "Comments (RSS)"
+#~ msgstr "Reacties (RSS)"
+#~ msgid "%d queries. %s seconds."
+#~ msgstr "%d queries. %s seconden."
+#~ msgid "Customize Header"
+#~ msgstr "Aanpassen Header"
+#~ msgid "Header Image and Color"
+#~ msgstr "Header Afbeelding en Kleur"
+#~ msgid "Close Color Picker"
+#~ msgstr "Sluit Kleur Kiezer"
+#~ msgid "Options saved."
+#~ msgstr "Opties opgeslagen."
+#~ msgid "Save"
+#~ msgstr "Opslaan."
+#~ msgid "Font Color:"
+#~ msgstr "Font Kleur:"
+#~ msgid "Any CSS color (%s or %s or %s)"
+#~ msgstr "Elke CSS kleur (%s or %s or %s)"
+#~ msgid "Upper Color:"
+#~ msgstr "Kleur Hoog:"
+#~ msgid "HEX only (%s or %s)"
+#~ msgstr "HEX toegestaan (%s or %s)"
+#~ msgid "Lower Color:"
+#~ msgstr "Kleur Laag:"
+#~ msgid "Toggle Text"
+#~ msgstr "Toggle Tekst"
+#~ msgid "Use Defaults"
+#~ msgstr "Gebruik Standaardwaarden"
+#~ msgid "Font Color"
+#~ msgstr "Kleur Lettertype"
+#~ msgid "Upper Color"
+#~ msgstr "Kleur hoog"
+#~ msgid "Lower Color"
+#~ msgstr "Kleur laag"
+#~ msgid "Revert"
+#~ msgstr "Ongedaan maken"
+#~ msgid "Advanced"
+#~ msgstr "Geavanceerd"
+#~ msgid "Update Header &raquo;"
+#~ msgstr "Header updaten &raquo;"
+#~ msgid "Font Color (CSS):"
+#~ msgstr "Lettertype Kleur (HEX):"
+#~ msgid "Upper Color (HEX):"
+#~ msgstr "Kleur Hoog (HEX):"
+#~ msgid "Lower Color (HEX):"
+#~ msgstr "Kleur Laag (HEX):"
+#~ msgid "Select Default Colors"
+#~ msgstr "Selecteerd Standaard Kleuren"
+#~ msgid "Toggle Text Display"
+#~ msgstr "Toggle Text Display"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; Blog Archief"
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s RSS Feed"
+#~ msgid "This entry was posted on %1$s at %2$s and is filed under %3$s."
+#~ msgstr "Deze entry is gepost op %1$s at %2$s en is te vinden op %3$s."
+#~ msgid "Read the rest of this page &raquo;"
+#~ msgstr "Lees de rest van deze pagina  &raquo;"
+

@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress 2.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-15 11:15+0100\n"
+"PO-Revision-Date: 2008-06-15 11:15+0100\n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: kleinluchsküche.com <cyril@kleinluchskueche.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../view/dlmenu\n"
+
+#: ../functions.php:39
+#, fuzzy
+msgid "Next posts &raquo;"
+msgstr "Новіші записи &raquo;"
+
+#: ../functions.php:50
+msgid "&laquo; Previous posts"
+msgstr ""
+
+#: ../sidebar.php:23
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Ви переглядаєте архів категорії %s"
+
+#: ../sidebar.php:26
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "Ви переглядаєте архів сайта <a href=\"%1$s/\">%2$s</a> за %3$s."
+
+#: ../sidebar.php:26
+msgid "l, F jS, Y"
+msgstr "l, d.m.Y"
+
+#: ../sidebar.php:29
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "Ви переглядаєте архів сайта <a href=\"%1$s/\">%2$s</a> за %3$s."
+
+#: ../sidebar.php:29
+msgid "F, Y"
+msgstr "F, Y"
+
+#: ../sidebar.php:32
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "Ви переглядаєте архів сайта <a href=\"%1$s/\">%2$s</a> за %3$s рік."
+
+#: ../sidebar.php:35
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "Ви шукали <strong>&#8216;%3$s&#8217;</strong> на сайті <a href=\"%1$s/\">%2$s</a>. Якщо не можете знайти щось в цих результатах пошуку, ви можете скористатись наступними посиланнями."
+
+#: ../sidebar.php:38
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "Ви переглядаєте архів сайта <a href=\"%1$s/\">%2$s</a>."
+
+#: ../sidebar.php:44
+msgid "Pages"
+msgstr "Сторінки"
+
+#: ../sidebar.php:52
+msgid "Categories"
+msgstr "Категорії"
+
+#: ../view/dlmenu/archive.php:9
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Архів категорії «%s»"
+
+#: ../view/dlmenu/archive.php:11
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Статті з теґом «%s»"
+
+#: ../view/dlmenu/archive.php:13
+#: ../view/dlmenu/comments.php:37
+#: ../view/dlmenu/content.php:10
+msgid "F jS, Y"
+msgstr "d.m.Y"
+
+#: ../view/dlmenu/archive.php:17
+msgid "Y"
+msgstr "Y"
+
+#: ../view/dlmenu/archive.php:26
+#: ../view/dlmenu/archive.php:46
+#: ../view/dlmenu/search.php:9
+#: ../view/dlmenu/search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Старіші записи"
+
+#: ../view/dlmenu/archive.php:27
+#: ../view/dlmenu/archive.php:47
+#: ../view/dlmenu/search.php:10
+#: ../view/dlmenu/search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "Новіші записи &raquo;"
+
+#: ../view/dlmenu/archive.php:32
+#: ../view/dlmenu/content.php:9
+#: ../view/dlmenu/search.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Стійке посилання на %s"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#: ../view/dlmenu/single.php:19
+msgid "Tags:"
+msgstr "Теґи:"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#, php-format
+msgid "Posted in %s"
+msgstr "Категорії: %s"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+msgid "Edit"
+msgstr "Редагувати"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "No Comments &#187;"
+msgstr "Коментарів немає &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "1 Comment &#187;"
+msgstr "Коментарів: 1 &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "% Comments &#187;"
+msgstr "Коментарів: % &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+#, fuzzy
+msgid "Comments Closed"
+msgstr "Коментування закрите."
+
+#: ../view/dlmenu/attachment.php:13
+#, php-format
+msgid "Permanent Link: %s"
+msgstr "Стійке посилання: %s"
+
+#: ../view/dlmenu/attachment.php:17
+#: ../view/dlmenu/content.php:13
+#: ../view/dlmenu/single.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "Читати далі &raquo;"
+
+#: ../view/dlmenu/attachment.php:19
+#: ../view/dlmenu/single.php:18
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr "Статтю написано: %2$s в %3$s, категорії: %4$s.<!--%1$s-->"
+
+#: ../view/dlmenu/attachment.php:28
+#: ../view/dlmenu/single.php:28
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "Ви можете слідкувати за коментуванням цієї статті за допомогою <a href='%s'>RSS 2.0</a>."
+
+#: ../view/dlmenu/attachment.php:32
+#: ../view/dlmenu/single.php:32
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Ви можете <a href=\"#respond\">залишити коментар</a>, або надіслати <a href=\"%s\" rel=\"trackback\">трекбек</a> з вашого сайту."
+
+#: ../view/dlmenu/attachment.php:36
+#: ../view/dlmenu/single.php:36
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Коментування наразі закрите, проте ви можете відправити <a href=\"%s\" rel=\"trackback\">трекбек</a> з вашого сайта."
+
+#: ../view/dlmenu/attachment.php:46
+#: ../view/dlmenu/single.php:46
+msgid "Edit this entry."
+msgstr "Редагувати цей запис."
+
+#: ../view/dlmenu/comments-popup.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s — коментування %2$s"
+
+#: ../view/dlmenu/comments-popup.php:27
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr> для надсилання трекбеків: <em>%s</em>"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Comment"
+msgstr "Коментар"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Trackback"
+msgstr "Трекбек"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Pingback"
+msgstr "Пінґбек"
+
+#: ../view/dlmenu/comments-popup.php:45
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "Автор %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: ../view/dlmenu/comments-popup.php:56
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "Переведення рядків та абзаців автоматичне, адреси e-mail ніколи не відображаються,  дозволений <acronym title=\"Hypertext Markup Language\">XHTML</acronym>: <code>%s</code>"
+
+#: ../view/dlmenu/comments-popup.php:60
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "<a href=\"%1$s\">%2$s</a>, ви в системі. <a href=\"%3$s\" title=\"Вийти з цього акаунта\">Вийти &raquo;</a>"
+
+#: ../view/dlmenu/comments-popup.php:105
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "Працює на <a href=\"%s\" title=\"Працює на WordPress, насучаснішій семантичній персональній платформі публікацій\"><strong>WordPress</strong></a>"
+
+#: ../view/dlmenu/comments.php:23
+msgid "No Responses"
+msgstr "Відповідей немає."
+
+#: ../view/dlmenu/comments.php:23
+msgid "One Response"
+msgstr "Відповідей: 1"
+
+#: ../view/dlmenu/comments.php:23
+msgid "% Responses"
+msgstr "Відповідей: %"
+
+#: ../view/dlmenu/comments.php:23
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "до &#8220;%s&#8221;"
+
+#: ../view/dlmenu/comments.php:31
+#, php-format
+msgid "<cite>%s</cite> Says:"
+msgstr "<cite>%s</cite> каже:"
+
+#: ../view/dlmenu/comments.php:37
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../view/dlmenu/comments.php:37
+msgid "edit"
+msgstr "редагувати"
+
+#: ../view/dlmenu/comments.php:70
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Ви маєте <a href=\"%s\">увійти в систему</a> щоб мати можливість коментувати."
+
+#: ../view/dlmenu/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "<a href=\"%1$s\">%2$s</a>, ви увійшли в систему."
+
+#: ../view/dlmenu/comments.php:92
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Ви можете використовувати наступні теґи: <code>%s</code>"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "Помилка 404 — не знайдено"
+#~ msgid "Archive for %s|Daily archive page"
+#~ msgstr "Архів для %s|Сторінка щоденних архівів"
+#~ msgid "Archive for %s|Monthly archive page"
+#~ msgstr "Архів для %s|Сторінка щомісячних архівів"
+#~ msgid "Archive for %s|Yearly archive page"
+#~ msgstr "Архів для %s|Сторінка щорічних архівів"
+#~ msgid "Author Archive"
+#~ msgstr "Архів автора"
+#~ msgid "Blog Archives"
+#~ msgstr "Блоґ"
+#~ msgid "Not Found"
+#~ msgstr "Не знайдено"
+#~ msgid "Archives by Month:"
+#~ msgstr "Архів місяця"
+#~ msgid "Archives by Subject:"
+#~ msgstr "Архів теми:"
+#~ msgid ""
+#~ "You can skip to the end and leave a response. Pinging is currently not "
+#~ "allowed."
+#~ msgstr ""
+#~ "Ви можете перейти в кінець і залишити коментар. Пінґи/трекбеки закриті."
+#~ msgid "Both comments and pings are currently closed."
+#~ msgstr "Коментування та пінґування закрите."
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr "Вибачте, жодне прикріплення не відповідає запиту"
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Цей запис захищено паролем. Введіть пароль щоб переглянути коментарі."
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Ваш коментар чекає на узгодження."
+#~ msgid "Leave a Reply"
+#~ msgstr "Залишити відповідь"
+#~ msgid "Log out of this account"
+#~ msgstr "Вийти з системи"
+#~ msgid "Log out &raquo;"
+#~ msgstr "Вийти &raquo;"
+#~ msgid "Name"
+#~ msgstr "Ім’я"
+#~ msgid "(required)"
+#~ msgstr "(обов’язково)"
+#~ msgid "Mail (will not be published)"
+#~ msgstr "E-mail (не буде видимий)"
+#~ msgid "Website"
+#~ msgstr "Сайт"
+#~ msgid "Submit Comment"
+#~ msgstr "Відправити коментар"
+#~ msgid "Comments"
+#~ msgstr "Коментарі"
+#~ msgid ""
+#~ "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+#~ "this post."
+#~ msgstr ""
+#~ "<abbr title=\"Really Simple Syndication\">RSS</abbr> канал коментарів."
+#~ msgid "No comments yet."
+#~ msgstr "Поки жодного коментаря."
+#~ msgid "Leave a comment"
+#~ msgstr "Залишити коментар"
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+#~ msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+#~ msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+#~ msgid "Your Comment"
+#~ msgstr "Ваш коментар"
+#~ msgid "Say It!"
+#~ msgstr "Сказати це!"
+#~ msgid "Sorry, the comment form is closed at this time."
+#~ msgstr "Вибачте, форму коментарів наразі закрито."
+#~ msgid "Close this window."
+#~ msgstr "Закрити це вікно."
+#~ msgid "%1$s is proudly powered by %2$s"
+#~ msgstr "%1$s працює на %2$s"
+#~ msgid "%1$s and %2$s."
+#~ msgstr "%1$s та %2$s."
+#~ msgid "Entries (RSS)"
+#~ msgstr "RSS статей"
+#~ msgid "Comments (RSS)"
+#~ msgstr "RSS коментарів"
+#~ msgid "%d queries. %s seconds."
+#~ msgstr "%d запитів. %s секунд."
+#~ msgid "Customize Header"
+#~ msgstr "Налаштувати заголовок"
+#~ msgid "Header Image and Color"
+#~ msgstr "Колір та зображення заголовка"
+#~ msgid "Close Color Picker"
+#~ msgstr "Закрити вибір кольору"
+#~ msgid "Options saved."
+#~ msgstr "Налаштування збережено."
+#~ msgid "Save"
+#~ msgstr "Зберігти"
+#~ msgid "Font Color:"
+#~ msgstr "Колір тексту:"
+#~ msgid "Any CSS color (%s or %s or %s)"
+#~ msgstr "Будь-який колір CSS (%s або %s чи %s)"
+#~ msgid "Upper Color:"
+#~ msgstr "Верхній колір:"
+#~ msgid "HEX only (%s or %s)"
+#~ msgstr "Тільки HEX (%s або %s)"
+#~ msgid "Lower Color:"
+#~ msgstr "Нижній колір:"
+#~ msgid "Toggle Text"
+#~ msgstr "Перемкнути текст"
+#~ msgid "Use Defaults"
+#~ msgstr "Використати за замовчуванням"
+#~ msgid "Font Color"
+#~ msgstr "Колір тексту"
+#~ msgid "Upper Color"
+#~ msgstr "Верхній колір"
+#~ msgid "Lower Color"
+#~ msgstr "Нижній колір"
+#~ msgid "Revert"
+#~ msgstr "Повернути"
+#~ msgid "Advanced"
+#~ msgstr "Додатково"
+#~ msgid "Update Header &raquo;"
+#~ msgstr "Оновити заголовок &raquo;"
+#~ msgid "Font Color (CSS):"
+#~ msgstr "Колір тексту (CSS):"
+#~ msgid "Upper Color (HEX):"
+#~ msgstr "Верхній колір (HEX):"
+#~ msgid "Lower Color (HEX):"
+#~ msgstr "Нижній колір (HEX):"
+#~ msgid "Select Default Colors"
+#~ msgstr "Встановити кольори за замовчуванням"
+#~ msgid "Toggle Text Display"
+#~ msgstr "Перемкнути відображення текста"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; Архів"
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s RSS"
+#~ msgid "This entry was posted on %1$s at %2$s and is filed under %3$s."
+#~ msgstr "Статтю написано: %1$s в %2$s, категорії: %3$s."
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "Вибачте, жодний пост не відповідає вашому запиту."
+#~ msgid "Sorry, but you are looking for something that isn&#8217;t here."
+#~ msgstr "Вибачте, ви шукаєте щось таке, чого тут немає."
+#~ msgid "Links:"
+#~ msgstr "Посилання:"
+#~ msgid "Read the rest of this page &raquo;"
+#~ msgstr "Читати далі &raquo;"
+#~ msgid "Search"
+#~ msgstr "Шукати"
+#~ msgid "Search Results"
+#~ msgstr "Результат пошуку"
+#~ msgid "No posts found. Try a different search?"
+#~ msgstr "Таких статей не знайдено. Спробуйте щось інше."
+#~ msgid "Author"
+#~ msgstr "Автор"
+#~ msgid "Archives"
+#~ msgstr "Архіви"
+#~ msgid "Meta"
+#~ msgstr "Мета"
+#~ msgid "This page validates as XHTML 1.0 Transitional"
+#~ msgstr "Ця сторінка відповідає стандартові XHTML"
+#~ msgid ""
+#~ "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+#~ msgstr ""
+#~ "Правильний <abbr title=\"eXtensible HyperText Markup Language\">XHTML</"
+#~ "abbr>"
+#~ msgid "XHTML Friends Network"
+#~ msgstr "XHTML Friends Network (XHTML мережа друзів)"
+#~ msgid "XFN"
+#~ msgstr "XFN"
+#~ msgid ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgstr ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgid "Archive for %s"
+#~ msgstr "Архів: %s"
+#~ msgid "Tags: "
+#~ msgstr "Теґи:"
+#~ msgid "Please do not load this page directly. Thanks!"
+#~ msgstr "Будь-ласка не завантажуйте цю сторінку напряму! Дякуємо!"
+

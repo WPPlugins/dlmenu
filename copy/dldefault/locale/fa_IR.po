@@ -1,0 +1,701 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Persian Kubrick theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-15 10:48+0100\n"
+"PO-Revision-Date: 2008-06-15 10:48+0100\n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: wp-persian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: persian\n"
+"X-Poedit-Country: Iran\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../view/dlmenu\n"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:31
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:51
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:24
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:11
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:28
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:9
+#: ../functions.php:39
+#, fuzzy
+msgid "Next posts &raquo;"
+msgstr "نوشته‌های بعدی &raquo;"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:30
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:50
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:23
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:10
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:27
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:8
+#: ../functions.php:50
+#, fuzzy
+msgid "&laquo; Previous posts"
+msgstr "&laquo; نوشته‌های پیشین"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:10
+#: ../sidebar.php:12
+msgid "Author"
+msgstr "نویسنده"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:21
+#: ../sidebar.php:23
+#, fuzzy, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "شما در حال مرور بایگانی"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:21
+#: ../sidebar.php:26
+#, fuzzy, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "شما در حال مرور بایگانی"
+
+#: ../sidebar.php:26
+msgid "l, F jS, Y"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:21
+#: ../sidebar.php:29
+#, fuzzy, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "شما در حال مرور بایگانی"
+
+#: ../sidebar.php:29
+msgid "F, Y"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:21
+#: ../sidebar.php:32
+#, fuzzy, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "شما در حال مرور بایگانی"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:37
+#: ../sidebar.php:35
+#, fuzzy, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "اگر نمی‌توانید چیز به‌دردبخوری با جست‌وجو به‌دست آورید٬ می‌توانید پیوند‌های زیر را به کار ببرید"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:21
+#: ../sidebar.php:38
+#, fuzzy, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "شما در حال مرور بایگانی"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:46
+#: ../sidebar.php:44
+msgid "Pages"
+msgstr "برگه‌ها (صفحات)"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:48
+#: ../sidebar.php:46
+msgid "Archives"
+msgstr "بایگانی"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:54
+#: ../sidebar.php:52
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:59
+#: ../sidebar.php:57
+msgid "Meta"
+msgstr "دیگر"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:63
+#: ../sidebar.php:61
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "این برگه (صفحه) از پاسخ XHTML درست است"
+
+#: ../sidebar.php:61
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+
+#: ../sidebar.php:62
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: ../sidebar.php:62
+msgid "XFN"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:65
+#: ../sidebar.php:63
+#, fuzzy
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "نیرو گرفته از وردپرس"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/404.php:5
+#: ../view/dlmenu/404.php:2
+msgid "Error 404 - Not Found"
+msgstr "خطای ۴۰۴ - پیدا نشد"
+
+#: ../view/dlmenu/archive.php:9
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:11
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:13
+#: ../view/dlmenu/comments.php:37
+#: ../view/dlmenu/content.php:10
+msgid "F jS, Y"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:17
+msgid "Y"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:21
+#: ../view/dlmenu/archive.php:19
+msgid "Author Archive"
+msgstr "بایگانی نویسنده"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:24
+#: ../view/dlmenu/archive.php:21
+msgid "Blog Archives"
+msgstr "بایگانی وب‌‌نامه (وبلاگ)"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:30
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:50
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:23
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:10
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:27
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:8
+#: ../view/dlmenu/archive.php:26
+#: ../view/dlmenu/archive.php:46
+#: ../view/dlmenu/search.php:9
+#: ../view/dlmenu/search.php:26
+#, fuzzy
+msgid "&laquo; Older Entries"
+msgstr "&laquo; نوشته‌های پیشین"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:31
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:51
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:24
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:11
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:28
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:9
+#: ../view/dlmenu/archive.php:27
+#: ../view/dlmenu/archive.php:47
+#: ../view/dlmenu/search.php:10
+#: ../view/dlmenu/search.php:27
+#, fuzzy
+msgid "Newer Entries &raquo;"
+msgstr "نوشته‌های بعدی &raquo;"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:36
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:10
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:18
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:13
+#: ../view/dlmenu/archive.php:32
+#: ../view/dlmenu/content.php:9
+#: ../view/dlmenu/search.php:17
+#, fuzzy, php-format
+msgid "Permanent Link to %s"
+msgstr "پیوند یکتا به"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:46
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#: ../view/dlmenu/single.php:19
+#, fuzzy
+msgid "Tags:"
+msgstr "برگه‌ها (صفحات)"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:43
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:17
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:21
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#, fuzzy, php-format
+msgid "Posted in %s"
+msgstr "نوشته شده در"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:43
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:17
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:21
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+msgid "Edit"
+msgstr "ویرایش"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:43
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:17
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:21
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "No Comments &#187;"
+msgstr "بدون پاسخ &#187;"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:43
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:17
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:21
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "1 Comment &#187;"
+msgstr "۱ پاسخ &#187;"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:43
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:17
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:21
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "% Comments &#187;"
+msgstr "% پاسخ &#187;"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:9
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+#, fuzzy
+msgid "Comments Closed"
+msgstr "پاسخ‌ها بسته شده‌اند"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:56
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:29
+#: ../view/dlmenu/archive.php:52
+#: ../view/dlmenu/content.php:41
+msgid "Not Found"
+msgstr "پیدا نشد"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archives.php:13
+#: ../view/dlmenu/archives.php:5
+msgid "Archives by Month:"
+msgstr "بایگانی ماهیانه:"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archives.php:18
+#: ../view/dlmenu/archives.php:10
+msgid "Archives by Subject:"
+msgstr "بایگانی موضوعی:"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:36
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:10
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:18
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:13
+#: ../view/dlmenu/attachment.php:13
+#, fuzzy, php-format
+msgid "Permanent Link: %s"
+msgstr "پیوند یکتا به"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:40
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:14
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:16
+#: ../view/dlmenu/attachment.php:17
+#: ../view/dlmenu/content.php:13
+#: ../view/dlmenu/single.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "خواندن ادامه‌ی این نوشته &raquo;"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:46
+#: ../view/dlmenu/attachment.php:19
+#: ../view/dlmenu/single.php:18
+#, fuzzy
+msgid "Pages:"
+msgstr "برگه‌ها (صفحات)"
+
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:29
+#: ../view/dlmenu/attachment.php:28
+#: ../view/dlmenu/single.php:28
+#, fuzzy, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "می‌توانید پاسخ‌ها این نوشته را پیگیری کنید با"
+
+#: ../view/dlmenu/attachment.php:32
+#: ../view/dlmenu/single.php:32
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:36
+#: ../view/dlmenu/single.php:36
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:41
+#: ../view/dlmenu/attachment.php:40
+#: ../view/dlmenu/single.php:40
+#, fuzzy
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "شما می‌توانید پاسخ دهید. اما نمی‌توانید بازتاب بفرستید"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:45
+#: ../view/dlmenu/attachment.php:44
+#: ../view/dlmenu/single.php:44
+#, fuzzy
+msgid "Both comments and pings are currently closed."
+msgstr "پاسخ‌ها و بازتاب‌ها در حال حاضر بسته شده‌اند"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/page.php:16
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:47
+#: ../view/dlmenu/attachment.php:46
+#: ../view/dlmenu/single.php:46
+msgid "Edit this entry."
+msgstr "ویرایش این نوشته."
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:59
+#: ../view/dlmenu/attachment.php:58
+#, fuzzy
+msgid "Sorry, no attachments matched your criteria."
+msgstr "ببخشید، نوشته‌ای برای جست‌وجوی شما پیدا نشد"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:9
+#: ../view/dlmenu/comments-popup.php:9
+#, fuzzy, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "پاسخ‌ها برای"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:22
+#: ../view/dlmenu/comments-popup.php:22
+msgid "Comments"
+msgstr "پاسخ‌ها"
+
+#: ../view/dlmenu/comments-popup.php:24
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:27
+#: ../view/dlmenu/comments-popup.php:27
+#, fuzzy, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "<abbr title=\"Universal Resource Locator\">نشلنی</abbr> برای بازتاب فرستادن به این نوشته:"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:45
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Comment"
+msgstr "پاسخ"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:45
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Trackback"
+msgstr "بازتاب"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:45
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Pingback"
+msgstr "پینگ‌بک"
+
+#: ../view/dlmenu/comments-popup.php:45
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:51
+#: ../view/dlmenu/comments-popup.php:51
+#, fuzzy
+msgid "No comments yet."
+msgstr "بی‌پاسخ"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:55
+#: ../view/dlmenu/comments-popup.php:55
+msgid "Leave a comment"
+msgstr "پاسخی بنویسید"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:56
+#: ../view/dlmenu/comments-popup.php:56
+#, fuzzy, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "خطها و پاراگراف‌ها به خودی خود شکسته می‌شوند٬ رای‌نامه (ایمیل) نپنهان می‌شود٬"
+
+#: ../view/dlmenu/comments-popup.php:60
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:64
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:81
+#: ../view/dlmenu/comments-popup.php:64
+#: ../view/dlmenu/comments.php:82
+msgid "Name"
+msgstr "نام"
+
+#: ../view/dlmenu/comments-popup.php:71
+msgid "E-mail"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:27
+#: ../view/dlmenu/comments-popup.php:76
+#, fuzzy
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"Universal Resource Locator\">نشلنی</abbr> برای بازتاب فرستادن به این نوشته:"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:81
+#: ../view/dlmenu/comments-popup.php:81
+msgid "Your Comment"
+msgstr "پاسخ شما"
+
+#: ../view/dlmenu/comments-popup.php:87
+msgid "Say It!"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:92
+#: ../view/dlmenu/comments-popup.php:92
+#, fuzzy
+msgid "Sorry, the comment form is closed at this time."
+msgstr "ببخشید، نمی‌توانید پاسخی بنویسید"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:97
+#: ../view/dlmenu/comments-popup.php:97
+#, fuzzy
+msgid "Close this window."
+msgstr "بستن این پنجره"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/sidebar.php:65
+#: ../view/dlmenu/comments-popup.php:105
+#, fuzzy, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "نیرو گرفته از وردپرس"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:9
+#: ../view/dlmenu/comments.php:9
+#, fuzzy
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "این نوشته رمزدار است. برای دیدن پاسخ‌ها٬ رمز را بنویسید"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:23
+#: ../view/dlmenu/comments.php:23
+msgid "No Responses"
+msgstr "بی‌پاسخ"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:23
+#: ../view/dlmenu/comments.php:23
+msgid "One Response"
+msgstr "یک پاسخ"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:23
+#: ../view/dlmenu/comments.php:23
+msgid "% Responses"
+msgstr "% پاسخ"
+
+#: ../view/dlmenu/comments.php:23
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:31
+#, php-format
+msgid "<cite>%s</cite> Says:"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:32
+#: ../view/dlmenu/comments.php:33
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "پاسخ شما باید بررسی شود"
+
+#: ../view/dlmenu/comments.php:37
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:36
+#: ../view/dlmenu/comments.php:37
+msgid "edit"
+msgstr "ویرایش"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:9
+#: ../view/dlmenu/comments.php:59
+#, fuzzy
+msgid "Comments are closed."
+msgstr "پاسخ‌ها بسته شده‌اند"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:66
+#: ../view/dlmenu/comments.php:67
+msgid "Leave a Reply"
+msgstr "پاسخی بنویسید"
+
+#: ../view/dlmenu/comments.php:70
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../view/dlmenu/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:60
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:76
+#: ../view/dlmenu/comments.php:77
+msgid "Log out of this account"
+msgstr "بیرون رفتن از این حساب"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:60
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:76
+#: ../view/dlmenu/comments.php:77
+#, fuzzy
+msgid "Log out &raquo;"
+msgstr "بیرون رفتن &raquo;"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:64
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:71
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:81
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:84
+#: ../view/dlmenu/comments.php:82
+#: ../view/dlmenu/comments.php:85
+msgid "(required)"
+msgstr "(لازم)"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:71
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:84
+#: ../view/dlmenu/comments.php:85
+msgid "Mail (will not be published)"
+msgstr "رای‌نامه (ایمیل) (پنهان می‌شود)"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:76
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:87
+#: ../view/dlmenu/comments.php:88
+msgid "Website"
+msgstr "سایت"
+
+#: ../view/dlmenu/comments.php:92
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr ""
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:95
+#: ../view/dlmenu/comments.php:96
+msgid "Submit Comment"
+msgstr "فرستادن پاسخ"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/index.php:30
+#: ../view/dlmenu/content.php:42
+#, fuzzy
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "ببخشید، اما انگار شما واسه چیزی اینجا رو گشتین که وجود نداره."
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/links.php:11
+#: ../view/dlmenu/links.php:4
+msgid "Links:"
+msgstr "پیوندها:"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:7
+#: ../view/dlmenu/search.php:6
+msgid "Search Results"
+msgstr "نتایج جست‌وجو"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/search.php:33
+#: ../view/dlmenu/search.php:32
+msgid "No posts found. Try a different search?"
+msgstr "نوشته‌ای پیدا نشد. دوباره می‌گردید؟"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/searchform.php:3
+#: ../view/dlmenu/searchform.php:3
+msgid "Search"
+msgstr "جست‌وجو"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:59
+#: ../view/dlmenu/single.php:58
+#, fuzzy
+msgid "Sorry, no posts matched your criteria."
+msgstr "ببخشید، نوشته‌ای برای جست‌وجوی شما پیدا نشد"
+
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:9
+#~ msgid "Archive for the "
+#~ msgstr "بایگانی برای"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:9
+#~ msgid "Category"
+#~ msgstr "دسته"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:12
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:15
+# C:\Apache\htdocs\wp22\wp-content\themes\default/archive.php:18
+#~ msgid "Archive for"
+#~ msgstr "بایگانی برای"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/page.php:11
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:18
+#~ msgid "<p><strong>Pages:</strong> "
+#~ msgstr "<p><strong>برگه‌ها (صفحات):</strong> "
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:22
+#~ msgid "This entry was posted on"
+#~ msgstr "نوشته شده در"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:36
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:27
+#~ msgid "at"
+#~ msgstr "در"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:28
+#~ msgid "and is filed under"
+#~ msgstr "و در زیرمجموعه‌ی"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:29
+#~ msgid "feed"
+#~ msgstr "خوراک"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:33
+#~ msgid "You can"
+#~ msgstr "می‌توانید"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:33
+#~ msgid "leave a response"
+#~ msgstr "پاسخ دهید"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:33
+#~ msgid ","
+#~ msgstr "٬"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:33
+#~ msgid "or"
+#~ msgstr "یا"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:33
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:37
+#~ msgid "send trackback"
+#~ msgstr "بازتاب بفرستید"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:33
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:37
+#~ msgid "from your own site"
+#~ msgstr "از سایت خودتان"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:37
+#~ msgid "Responses are currently closed, but you can"
+#~ msgstr "نمی‌توانید پاسخی بنویسید، اما می‌توانید"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:33
+# C:\Apache\htdocs\wp22\wp-content\themes\default/single.php:37
+#~ msgid "trackback"
+#~ msgstr "بازتاب"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:24
+#~ msgid "feed for comments on this post"
+#~ msgstr "خوراک برای این نوشته"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:45
+#~ msgid "by"
+#~ msgstr "با"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:56
+#~ msgid "allowed:"
+#~ msgstr "مجاز:"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:60
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:76
+#~ msgid "Logged in as"
+#~ msgstr "وارد شده با نام"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:105
+#~ msgid "proudly powered by <a href=\"http://wordpress.org/\">WordPress</a>"
+#~ msgstr ""
+#~ "نیرو گرفته از <a href=\"http://wordpress.org/\">وردپرس</a> <a href="
+#~ "\"http://wp-persian.com/\">فارسی</a>"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:23
+#~ msgid "to"
+#~ msgstr "برای"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:69
+#~ msgid "You must be"
+#~ msgstr "باید"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments.php:69
+#~ msgid "logged in"
+#~ msgstr "وارد سایت شده باشید"
+# C:\Apache\htdocs\wp22\wp-content\themes\default/comments-popup.php:55
+#, fuzzy
+#~ msgid "to post a comment"
+#~ msgstr " برای پاسخ دادن"
+

@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dlmenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-16 11:11+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: Dave Ligthart <info@daveligthart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../classes\n"
+"X-Poedit-SearchPath-1: ../view\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../classes/action/DLMenuAdminAction.php:208
+#: ../classes/action/DLMenuAdminAction.php:209
+msgid "DL-MENU"
+msgstr "DL-MENU"
+
+#: ../classes/action/DLMenuAdminBlogAction.php:44
+#: ../classes/action/DLMenuAdminHeaderAction.php:45
+#: ../classes/action/DLMenuAdminMenuAction.php:44
+#: ../classes/action/DLMenuAdminPageAction.php:44
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: ../view/admin/admin_blog_options.php:2
+msgid "Blog options"
+msgstr "Blog opties"
+
+#: ../view/admin/admin_blog_options.php:8
+msgid "Blog title"
+msgstr "Blog titel"
+
+#: ../view/admin/admin_blog_options.php:13
+msgid "Enter blog title"
+msgstr "Blog title invullen"
+
+#: ../view/admin/admin_blog_options.php:18
+msgid "Blog subtitle"
+msgstr "Blog ondertitel"
+
+#: ../view/admin/admin_blog_options.php:23
+msgid "Enter blog subtitle"
+msgstr "Blog ondertitel invullen"
+
+#: ../view/admin/admin_blog_options.php:28
+#: ../view/admin/admin_header_options.php:147
+#: ../view/admin/admin_menu_options.php:175
+#: ../view/admin/admin_page_options.php:149
+msgid "Save Changes"
+msgstr "Opslaan"
+
+#: ../view/admin/admin_header_options.php:2
+msgid "Header options"
+msgstr "Header opties"
+
+#: ../view/admin/admin_header_options.php:8
+msgid "Image preview"
+msgstr "Afbeelding voorbeeld"
+
+#: ../view/admin/admin_header_options.php:16
+msgid "Image path"
+msgstr "Afbeelding pad"
+
+#: ../view/admin/admin_header_options.php:21
+msgid "Enter header image path"
+msgstr "Afbeelding pad invullen"
+
+#: ../view/admin/admin_header_options.php:26
+msgid "Image position x"
+msgstr "Afbeelding positie x"
+
+#: ../view/admin/admin_header_options.php:31
+msgid "Enter position x in pixels"
+msgstr "Afbeelding positie in pixels"
+
+#: ../view/admin/admin_header_options.php:36
+msgid "Image position y"
+msgstr "Afbeelding positie y"
+
+#: ../view/admin/admin_header_options.php:41
+msgid "Enter position y in pixels"
+msgstr "Afbeelding positie y invullen"
+
+#: ../view/admin/admin_header_options.php:46
+msgid "Video path"
+msgstr "Video pad"
+
+#: ../view/admin/admin_header_options.php:51
+msgid "Enter path to video"
+msgstr "Video pad invullen"
+
+#: ../view/admin/admin_header_options.php:56
+msgid "Video click url"
+msgstr "Video klik url"
+
+#: ../view/admin/admin_header_options.php:61
+msgid "Enter click url"
+msgstr "Video klik url invullen"
+
+#: ../view/admin/admin_header_options.php:66
+msgid "Video width"
+msgstr "Video breedte"
+
+#: ../view/admin/admin_header_options.php:71
+msgid "Enter video width in pixels"
+msgstr "Video breedte in pixels"
+
+#: ../view/admin/admin_header_options.php:76
+msgid "Video height"
+msgstr "Video hoogte"
+
+#: ../view/admin/admin_header_options.php:81
+msgid "Enter video height in pixels"
+msgstr "Video hoogte in pixels"
+
+#: ../view/admin/admin_header_options.php:86
+msgid "Video orientation"
+msgstr "Video orientatie"
+
+#: ../view/admin/admin_header_options.php:114
+msgid "Choose video orientation"
+msgstr "Kies video orientatie"
+
+#: ../view/admin/admin_header_options.php:119
+msgid "Video repeat"
+msgstr "Video herhalen"
+
+#: ../view/admin/admin_header_options.php:141
+msgid "Turn video repeat on/off"
+msgstr "Video herhalen aan/uit zetten"
+
+#: ../view/admin/admin_help.php:2
+#: ../view/admin/admin_submenu.php:7
+msgid "Help"
+msgstr "Help"
+
+#: ../view/admin/admin_help.php:4
+msgid "Installation"
+msgstr "Installatie"
+
+#: ../view/admin/admin_help.php:8
+msgid "Locate and upload the entire folder named \"dldefault\"  into your wp-content/themes/ directory."
+msgstr "Kopieer de \"dldefault\" theme map naar \"wp-content/themes\""
+
+#: ../view/admin/admin_help.php:11
+msgid "Go to your WordPress administration area and click on Plugins and activate the plugin called \"DL-MENU\"."
+msgstr "Ga naar Wordpress Administratie -> Plugins en activeer de plugin genaamd \"DL-MENU\"."
+
+#: ../view/admin/admin_help.php:17
+msgid "License"
+msgstr "Licentie"
+
+#: ../view/admin/admin_help.php:22
+msgid "Buy a license:"
+msgstr "Koop een licentie:"
+
+#: ../view/admin/admin_help.php:25
+msgid "1 website license"
+msgstr "1 website licentie"
+
+#: ../view/admin/admin_help.php:27
+msgid "10 website license"
+msgstr "10 website licentie"
+
+#: ../view/admin/admin_help.php:32
+msgid "Do you like this plugin?"
+msgstr "Is deze plugin naar wens?"
+
+#: ../view/admin/admin_help.php:35
+msgid "Dave Ligthart has created many programs, websites, themes, templates and plugins"
+msgstr "Dave Ligthart heeft veel programma's, websites, themes, templates en plugin gecreërd"
+
+#: ../view/admin/admin_help.php:38
+msgid "This plugin is free for you to use and has been perfected over countless hours!"
+msgstr "Deze plugin is gratis. In het perfectioneren is veel tijd gestoken."
+
+#: ../view/admin/admin_help.php:41
+msgid "<strong>A donation would be kindly appreciated</strong> or concider Dave Ligthart for your next project."
+msgstr "<strong>Een donatie wordt geapprecieerd"
+
+#: ../view/admin/admin_menu_options.php:32
+msgid "Menu options"
+msgstr "Menu opties"
+
+#: ../view/admin/admin_menu_options.php:38
+msgid "Width"
+msgstr "Breedte"
+
+#: ../view/admin/admin_menu_options.php:43
+msgid "Enter width in pixels"
+msgstr "Breedte van het menu invullen in pixels"
+
+#: ../view/admin/admin_menu_options.php:48
+msgid "Height"
+msgstr "Hoogte"
+
+#: ../view/admin/admin_menu_options.php:53
+msgid "Enter height in pixels"
+msgstr "Hoogte van het menu invullen in pixels"
+
+#: ../view/admin/admin_menu_options.php:58
+msgid "Font"
+msgstr "Lettertype"
+
+#: ../view/admin/admin_menu_options.php:84
+msgid "Choose font"
+msgstr "Lettertype kiezen"
+
+#: ../view/admin/admin_menu_options.php:90
+msgid "Fontsize"
+msgstr "Lettertype grootte"
+
+#: ../view/admin/admin_menu_options.php:95
+msgid "Choose fontsize"
+msgstr "Grootte lettertype kiezen"
+
+#: ../view/admin/admin_menu_options.php:101
+msgid "Tab position y"
+msgstr "Tab y positie"
+
+#: ../view/admin/admin_menu_options.php:106
+msgid "Set menu tab y position"
+msgstr "Menu tab y positie invullen in pixels"
+
+#: ../view/admin/admin_menu_options.php:111
+msgid "Tab corner radius"
+msgstr "Tab hoek ronding"
+
+#: ../view/admin/admin_menu_options.php:116
+msgid "Set tab corner radius in pixels"
+msgstr "Tab hoek ronding invullen in pixels"
+
+#: ../view/admin/admin_menu_options.php:121
+msgid "Tab shadow"
+msgstr "Tab schaduw"
+
+#: ../view/admin/admin_menu_options.php:149
+msgid "Turn shadow on/off"
+msgstr "Tab schaduw aan/uit"
+
+#: ../view/admin/admin_menu_options.php:154
+msgid "Tab spacing"
+msgstr "Tab afstand"
+
+#: ../view/admin/admin_menu_options.php:159
+msgid "Set tab spacing in pixels"
+msgstr "Tab afstand invullen in pixels"
+
+#: ../view/admin/admin_menu_options.php:165
+msgid "Tab submenu width"
+msgstr "Tab submenu breedte"
+
+#: ../view/admin/admin_menu_options.php:170
+msgid "Set tab submenu width in pixels"
+msgstr "Tab submenu breedte invullen  in pixels"
+
+#: ../view/admin/admin_page_options.php:42
+msgid "Show Popular"
+msgstr "Toon populair"
+
+#: ../view/admin/admin_page_options.php:45
+msgid "Show Random"
+msgstr "Toon willekeurig"
+
+#: ../view/admin/admin_page_options.php:90
+msgid "Color options"
+msgstr "Kleur opties"
+
+#: ../view/admin/admin_page_options.php:97
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: ../view/admin/admin_page_options.php:102
+msgid "Enter backgroundcolor hex e.g 000000"
+msgstr "Achtergrondkleur invullen (HEX) voorbeeld 000000"
+
+#: ../view/admin/admin_page_options.php:107
+msgid "Font Color"
+msgstr "Kleur Lettertype"
+
+#: ../view/admin/admin_page_options.php:112
+#: ../view/admin/admin_page_options.php:143
+msgid "Enter fontcolor hex e.g CCCCCC"
+msgstr "Kleur Lettertype invullen "
+
+#: ../view/admin/admin_page_options.php:117
+msgid "Tab Shield Color"
+msgstr "Tab Schild Kleur"
+
+#: ../view/admin/admin_page_options.php:122
+msgid "Enter shieldcolor hex e.g CCCCCC"
+msgstr "Schildkleur invullen (HEX) voorbeeld  FF0000"
+
+#: ../view/admin/admin_page_options.php:128
+msgid "Tab Color"
+msgstr "Tab Kleur"
+
+#: ../view/admin/admin_page_options.php:133
+msgid "Enter tabcolor hex e.g CCCCCC"
+msgstr "Tab lettertype kleur (HEX) invullen voorbeeld CCCCCC"
+
+#: ../view/admin/admin_page_options.php:138
+msgid "Tab Font Color"
+msgstr "Tab Kleur Lettertype"
+
+#: ../view/admin/admin_submenu.php:3
+msgid "Colors"
+msgstr "Kleuren"
+
+#: ../view/admin/admin_submenu.php:4
+msgid "Header"
+msgstr "Kop"
+
+#: ../view/admin/admin_submenu.php:5
+msgid "Menu"
+msgstr "Menu"
+
+#: ../view/admin/admin_submenu.php:6
+msgid "Title"
+msgstr "Titel"
+
+#: ../view/admin/blocks/footer.php:14
+msgid "Some rights reserved"
+msgstr "Sommige rechten voorbehouden"
+
+#: ../view/admin/blocks/footer.php:17
+msgid "Plugin by"
+msgstr "Plugin door"
+
+#: ../view/admin/blocks/license.php:2
+msgid "DL-MENU is licensed under Creative Commons."
+msgstr "Dit werk is gelicenceerd onder een Creative Commons License"
+
+#: ../view/admin/blocks/license.php:5
+msgid "It allows you to use, modify and redistribute the script for noncommercial purposes"
+msgstr "Het stelt je in staat het script te veranderen en te redistributeren voor niet-commercieële doeleinden."
+
+#: ../view/admin/blocks/license.php:7
+msgid "For all other use, I sell commercial licenses. You should buy one if:"
+msgstr "Voor al het andere gebruik verkoop ik commercieële licenties. Koop er een in het geval dat:"
+
+#: ../view/admin/blocks/license.php:10
+msgid "your site has ads (like Adsense or display banners) or"
+msgstr "jouw site advertenties heeft (zoals Google Adsense of banners) of"
+
+#: ../view/admin/blocks/license.php:11
+msgid "you don't want to attribute me or"
+msgstr "je geen verwijzingen naar mij wilt plaatsen of"
+
+#: ../view/admin/blocks/license.php:12
+msgid "you are a corporation (governmental/nonprofit use is free)"
+msgstr "je een bedrijf bent(overheid / non-profit / semi-overheid gebruik is gratis)"
+
+#: ../view/admin/blocks/license.php:14
+msgid "View the Creative Commons license"
+msgstr "Bekijk de Creative Commons licentie"
+
+#: ../view/admin/blocks/license.php:14
+msgid "here"
+msgstr "hier"
+
+#: ../view/dlmenu/dlmenu_main.php:3
+msgid "This website requires the Adobe Flash Player."
+msgstr "Deze website vereist de Adobe Flash Player."
+
+#: ../dlmenu_api.php:43
+msgid "DL-MENU plugin is not acivated."
+msgstr "DL-MENU plugin is nog niet geactiveerd."
+
+#: ../dlmenu_api.php:46
+msgid "Please"
+msgstr "Gaarne"
+
+#: ../dlmenu_api.php:48
+msgid "activate"
+msgstr "activeren"
+

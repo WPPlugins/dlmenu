@@ -1,0 +1,569 @@
+# WordPress 用日本語リソース (UTF-8) 
+# Japanese (UTF-8) translation for WordPress
+#
+# Copyright (c) 2005-2008
+# このファイルは WordPress 本体と同じライセンスのもと配布されています。
+# This file is distributed under the same license as the WordPress package.
+#
+# WordPress 日本語版作成チーム / WP ja translation team
+# <http://groups.google.com/group/wp-ja-pkg/web/members>
+#
+#  誤字脱字誤訳、あるいはよりよい訳などありましたら以下までぜひお知らせください。
+#  また、翻訳、校正、コミットをお手伝いしていただける方も随時募集中です。
+#  連絡先 / Contact: wpja.team@gmail.com (件名か内容に「日本語リソース」と入れてください)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress 2.5 ja 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-15 11:10+0100\n"
+"PO-Revision-Date: 2008-06-15 11:10+0100\n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: wp-ja <wpja.team@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../view/dlmenu\n"
+
+#: ../functions.php:39
+#, fuzzy
+msgid "Next posts &raquo;"
+msgstr "次ページへ &raquo;"
+
+#: ../functions.php:50
+msgid "&laquo; Previous posts"
+msgstr ""
+
+#: ../sidebar.php:12
+msgid "Author"
+msgstr "作成者"
+
+#: ../sidebar.php:23
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "%s カテゴリーのアーカイブを表示しています。"
+
+#: ../sidebar.php:26
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "<a href=\"%1$s\">%2$s</a> ブログの %3$s のアーカイブを表示しています。"
+
+#: ../sidebar.php:26
+msgid "l, F jS, Y"
+msgstr "Y 年 n 月 j 日 l"
+
+#: ../sidebar.php:29
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "<a href=\"%1$s/\">%2$s</a> の %3$s のアーカイブを閲覧中です。"
+
+#: ../sidebar.php:29
+msgid "F, Y"
+msgstr "Y 年 n 月"
+
+#: ../sidebar.php:32
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "<a href=\"%1$s\">%2$s</a> ブログの %3$s 年のアーカイブを表示しています。"
+
+#: ../sidebar.php:35
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "<a href=\"%1$s/\">%2$s</a> のアーカイブ内で<strong>&#8216;%3$s&#8217;</strong>を探しました。お探しのものが見つからない場合は他のリンクを試してみてください。"
+
+#: ../sidebar.php:38
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "<a href=\"%1$s/\">%2$s</a> ブログのアーカイブを閲覧中です。"
+
+#: ../sidebar.php:44
+msgid "Pages"
+msgstr "ページ"
+
+#: ../sidebar.php:46
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ../sidebar.php:52
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: ../sidebar.php:57
+msgid "Meta"
+msgstr "メタ情報"
+
+#: ../sidebar.php:61
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "このページが XHTML 1.0 Transitional に準拠しているか確認する"
+
+#: ../sidebar.php:61
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+
+#: ../sidebar.php:62
+msgid "XHTML Friends Network"
+msgstr "XHTML Friends Network"
+
+#: ../sidebar.php:62
+msgid "XFN"
+msgstr "XFN"
+
+#: ../sidebar.php:63
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+
+#: ../view/dlmenu/404.php:2
+msgid "Error 404 - Not Found"
+msgstr "エラー 404 - 見つかりませんでした"
+
+#: ../view/dlmenu/archive.php:9
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "&#8216;%s&#8217; カテゴリーのアーカイブ"
+
+#: ../view/dlmenu/archive.php:11
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "&#8216;%s&#8217; タグのついている投稿"
+
+#: ../view/dlmenu/archive.php:13
+#, php-format
+msgid "Archive for %s|Daily archive page"
+msgstr "%s のアーカイブ|日別アーカイブのページ"
+
+#: ../view/dlmenu/archive.php:13
+#: ../view/dlmenu/comments.php:37
+#: ../view/dlmenu/content.php:10
+msgid "F jS, Y"
+msgstr "Y 年 n 月 j 日"
+
+#: ../view/dlmenu/archive.php:15
+#, php-format
+msgid "Archive for %s|Monthly archive page"
+msgstr "%s のアーカイブ|月別アーカイブのページ"
+
+#: ../view/dlmenu/archive.php:17
+#, php-format
+msgid "Archive for %s|Yearly archive page"
+msgstr "%s のアーカイブ|年別アーカイブのページ"
+
+#: ../view/dlmenu/archive.php:17
+msgid "Y"
+msgstr "Y 年"
+
+#: ../view/dlmenu/archive.php:19
+msgid "Author Archive"
+msgstr "投稿者のアーカイブ"
+
+#: ../view/dlmenu/archive.php:21
+msgid "Blog Archives"
+msgstr "ブログアーカイブ"
+
+#: ../view/dlmenu/archive.php:26
+#: ../view/dlmenu/archive.php:46
+#: ../view/dlmenu/search.php:9
+#: ../view/dlmenu/search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; 前ページへ"
+
+#: ../view/dlmenu/archive.php:27
+#: ../view/dlmenu/archive.php:47
+#: ../view/dlmenu/search.php:10
+#: ../view/dlmenu/search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "次ページへ &raquo;"
+
+#: ../view/dlmenu/archive.php:32
+#: ../view/dlmenu/content.php:9
+#: ../view/dlmenu/search.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "%s のパーマリンク"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#: ../view/dlmenu/single.php:19
+msgid "Tags:"
+msgstr "タグ:"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#, php-format
+msgid "Posted in %s"
+msgstr "カテゴリー: %s"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+msgid "Edit"
+msgstr "編集"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "No Comments &#187;"
+msgstr "コメントはまだありません &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "1 Comment &#187;"
+msgstr "1 件のコメント &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "% Comments &#187;"
+msgstr "% 件のコメント &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+#, fuzzy
+msgid "Comments Closed"
+msgstr "コメントは受け付けていません。"
+
+#: ../view/dlmenu/archive.php:52
+#: ../view/dlmenu/content.php:41
+msgid "Not Found"
+msgstr "見つかりませんでした。"
+
+#: ../view/dlmenu/archives.php:5
+msgid "Archives by Month:"
+msgstr "月別のアーカイブ:"
+
+#: ../view/dlmenu/archives.php:10
+msgid "Archives by Subject:"
+msgstr "カテゴリー別アーカイブ:"
+
+#: ../view/dlmenu/attachment.php:13
+#, php-format
+msgid "Permanent Link: %s"
+msgstr "パーマリンク: %s"
+
+#: ../view/dlmenu/attachment.php:17
+#: ../view/dlmenu/content.php:13
+#: ../view/dlmenu/single.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "この投稿の続きを読む &raquo;"
+
+#: ../view/dlmenu/attachment.php:19
+#: ../view/dlmenu/single.php:18
+msgid "Pages:"
+msgstr "ページ:"
+
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr "この投稿は %1$s %2$s %3$s に %4$s カテゴリーに公開されました。"
+
+#: ../view/dlmenu/attachment.php:28
+#: ../view/dlmenu/single.php:28
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "この投稿へのコメントは <a href='%s'>RSS 2.0</a> フィードで購読することができます。"
+
+#: ../view/dlmenu/attachment.php:32
+#: ../view/dlmenu/single.php:32
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "<a href=\"#respond\">コメントを残すか</a>、ご自分のサイトから<a href=\"%s\" rel=\"trackback\">トラックバック</a>することができます。"
+
+#: ../view/dlmenu/attachment.php:36
+#: ../view/dlmenu/single.php:36
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "現在コメントは受け付けておりませんが、ご自分のサイトから<a href=\"%s\" rel=\"trackback\">トラックバック</a>を送ることはできます。"
+
+#: ../view/dlmenu/attachment.php:40
+#: ../view/dlmenu/single.php:40
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "このページの一番下でコメントを残すことができます。トラックバック / ピンバックは現在受け付けていません。"
+
+#: ../view/dlmenu/attachment.php:44
+#: ../view/dlmenu/single.php:44
+msgid "Both comments and pings are currently closed."
+msgstr "現在コメント、トラックバックともに受け付けておりません。"
+
+#: ../view/dlmenu/attachment.php:46
+#: ../view/dlmenu/single.php:46
+msgid "Edit this entry."
+msgstr "この投稿を編集する。"
+
+#: ../view/dlmenu/attachment.php:58
+msgid "Sorry, no attachments matched your criteria."
+msgstr "該当する添付ページは見つかりませんでした。"
+
+#: ../view/dlmenu/comments-popup.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - %2$s へのコメント"
+
+#: ../view/dlmenu/comments-popup.php:22
+msgid "Comments"
+msgstr "コメント"
+
+#: ../view/dlmenu/comments-popup.php:24
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "このコメント欄の <abbr title=\"Really Simple Syndication\">RSS</abbr> フィード"
+
+#: ../view/dlmenu/comments-popup.php:27
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "この投稿へのトラックバック <acronym title=\"Universal Resource Locator\">URL</acronym>: <em>%s</em>"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Comment"
+msgstr "コメント"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Trackback"
+msgstr "トラックバック"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Pingback"
+msgstr "ピンバック"
+
+#: ../view/dlmenu/comments-popup.php:45
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "&#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>: %1$s より"
+
+#: ../view/dlmenu/comments-popup.php:51
+msgid "No comments yet."
+msgstr "コメントはまだありません。"
+
+#: ../view/dlmenu/comments-popup.php:55
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: ../view/dlmenu/comments-popup.php:56
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "改行と段落タグは自動で挿入されます。メールアドレスは表示されません。利用可能な <acronym title=\"Hypertext Markup Language\">HTML</acronym> タグ: <code>%s</code>"
+
+#: ../view/dlmenu/comments-popup.php:60
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "<a href=\"%1$s\">%2$s</a> としてログイン中。<a href=\"%3$s\" title=\"このアカウントからログアウトする\">ログアウト &raquo;</a>"
+
+#: ../view/dlmenu/comments-popup.php:64
+#: ../view/dlmenu/comments.php:82
+msgid "Name"
+msgstr "お名前"
+
+#: ../view/dlmenu/comments-popup.php:71
+msgid "E-mail"
+msgstr "メールアドレス"
+
+#: ../view/dlmenu/comments-popup.php:76
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: ../view/dlmenu/comments-popup.php:81
+msgid "Your Comment"
+msgstr "コメント"
+
+#: ../view/dlmenu/comments-popup.php:87
+msgid "Say It!"
+msgstr "送信する !"
+
+#: ../view/dlmenu/comments-popup.php:92
+msgid "Sorry, the comment form is closed at this time."
+msgstr "コメントフォームは現在閉鎖中です。"
+
+#: ../view/dlmenu/comments-popup.php:97
+msgid "Close this window."
+msgstr "このウインドウを閉じる。"
+
+#: ../view/dlmenu/comments-popup.php:105
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+
+#: ../view/dlmenu/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "この投稿はパスワードで保護されています。コメントを閲覧するにはパスワードを入力してください。"
+
+#: ../view/dlmenu/comments.php:23
+msgid "No Responses"
+msgstr "コメント / トラックバックはありません"
+
+#: ../view/dlmenu/comments.php:23
+msgid "One Response"
+msgstr "コメント / トラックバック 1 件"
+
+#: ../view/dlmenu/comments.php:23
+msgid "% Responses"
+msgstr "コメント / トラックバック % 件"
+
+#: ../view/dlmenu/comments.php:23
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "<!-- to &#8220;%s&#8221; -->"
+
+#: ../view/dlmenu/comments.php:31
+#, php-format
+msgid "<cite>%s</cite> Says:"
+msgstr "<cite>%s</cite> より: "
+
+#: ../view/dlmenu/comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "コメントは管理者の承認待ちです。"
+
+#: ../view/dlmenu/comments.php:37
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: ../view/dlmenu/comments.php:37
+msgid "edit"
+msgstr "編集"
+
+#: ../view/dlmenu/comments.php:59
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: ../view/dlmenu/comments.php:67
+msgid "Leave a Reply"
+msgstr "コメントをどうぞ"
+
+#: ../view/dlmenu/comments.php:70
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントを投稿するには<a href=\"%s\">ログイン</a>してください。"
+
+#: ../view/dlmenu/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "<a href=\"%1$s\">%2$s</a> としてログイン中。"
+
+#: ../view/dlmenu/comments.php:77
+msgid "Log out of this account"
+msgstr "このアカウントからログアウト"
+
+#: ../view/dlmenu/comments.php:77
+msgid "Log out &raquo;"
+msgstr "ログアウト &raquo;"
+
+#: ../view/dlmenu/comments.php:82
+#: ../view/dlmenu/comments.php:85
+msgid "(required)"
+msgstr " (必須)"
+
+#: ../view/dlmenu/comments.php:85
+msgid "Mail (will not be published)"
+msgstr "メールアドレス (公開されません)"
+
+#: ../view/dlmenu/comments.php:88
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: ../view/dlmenu/comments.php:92
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> 次のタグを使用できます: <code>%s</code>"
+
+#: ../view/dlmenu/comments.php:96
+msgid "Submit Comment"
+msgstr "コメント送信"
+
+#: ../view/dlmenu/content.php:42
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "お探しの物はここにはありません。"
+
+#: ../view/dlmenu/links.php:4
+msgid "Links:"
+msgstr "リンク:"
+
+#: ../view/dlmenu/search.php:6
+msgid "Search Results"
+msgstr "検索結果"
+
+#: ../view/dlmenu/search.php:32
+msgid "No posts found. Try a different search?"
+msgstr "見つかりませんでした。別の検索をしますか ?"
+
+#: ../view/dlmenu/searchform.php:3
+msgid "Search"
+msgstr "検索"
+
+#: ../view/dlmenu/single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr "該当する投稿は見つかりませんでした。"
+
+#~ msgid "%1$s is proudly powered by %2$s"
+#~ msgstr "%1$s is proudly powered by %2$s"
+#~ msgid "%1$s and %2$s."
+#~ msgstr "%1$s と %2$s"
+#~ msgid "Entries (RSS)"
+#~ msgstr "投稿 (RSS)"
+#~ msgid "Comments (RSS)"
+#~ msgstr "コメント (RSS)"
+#~ msgid "%d queries. %s seconds."
+#~ msgstr "%d 個のクエリと %s 秒を要しました。"
+#~ msgid "Customize Header"
+#~ msgstr "ヘッダーのカスタマイズ"
+#~ msgid "Header Image and Color"
+#~ msgstr "ヘッダーの背景と文字の色"
+#~ msgid "Close Color Picker"
+#~ msgstr "カラーピッカーを閉じる"
+#~ msgid "Options saved."
+#~ msgstr "設定を保存しました。"
+#~ msgid "Save"
+#~ msgstr "保存"
+#~ msgid "Font Color:"
+#~ msgstr "フォントの色:"
+#~ msgid "Any CSS color (%s or %s or %s)"
+#~ msgstr "CSS 色指定 (%s 、%s もしくは %s)"
+#~ msgid "Upper Color:"
+#~ msgstr "グラデーション上側の色:"
+#~ msgid "HEX only (%s or %s)"
+#~ msgstr "16 進数のみ (%s もしくは %s)"
+#~ msgid "Lower Color:"
+#~ msgstr "グラデーション下側の色:"
+#~ msgid "Toggle Text"
+#~ msgstr "テキスト表示の切替え"
+#~ msgid "Use Defaults"
+#~ msgstr "デフォルト設定に戻す"
+#~ msgid "Font Color"
+#~ msgstr "フォントの色"
+#~ msgid "Upper Color"
+#~ msgstr "グラデーション上側の色"
+#~ msgid "Lower Color"
+#~ msgstr "グラデーション下側の色"
+#~ msgid "Revert"
+#~ msgstr "取り消し"
+#~ msgid "Advanced"
+#~ msgstr "詳細"
+#~ msgid "Update Header &raquo;"
+#~ msgstr "ヘッダーを更新 &raquo;"
+#~ msgid "Font Color (CSS):"
+#~ msgstr "フォントの色 (CSS):"
+#~ msgid "Upper Color (HEX):"
+#~ msgstr "グラデーション上側の色 (16 進数):"
+#~ msgid "Lower Color (HEX):"
+#~ msgstr "グラデーション下側の色 (16 進数):"
+#~ msgid "Select Default Colors"
+#~ msgstr "デフォルト設定に戻す"
+#~ msgid "Toggle Text Display"
+#~ msgstr "テキスト表示の切替え"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; ブログアーカイブ"
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s RSS フィード"
+#~ msgid "This entry was posted on %1$s at %2$s and is filed under %3$s."
+#~ msgstr "この投稿は %1$s %2$s に %3$s カテゴリーに公開されました。"
+#~ msgid "Read the rest of this page &raquo;"
+#~ msgstr "このページの続きを読む &raquo;"
+

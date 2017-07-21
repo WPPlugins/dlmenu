@@ -1,0 +1,15 @@
+
+INSTALLATION
+
+1. Copy the "dldefault" theme folder from dlmenu/copy directory
+to wp-content/themes .
+
+2. Copy the "dlmenu" plugin to your wp-content/plugins folder.
+
+3. Activate the plugin.
+
+4. Activate the theme.
+
+
+Copyright Dave Ligthart <info@daveligthart.com>
+www.daveligthart.com

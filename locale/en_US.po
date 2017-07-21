@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dlmenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-16 11:11+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: Dave Ligthart <info@daveligthart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../classes\n"
+"X-Poedit-SearchPath-1: ../view\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../classes/action/DLMenuAdminAction.php:208
+#: ../classes/action/DLMenuAdminAction.php:209
+msgid "DL-MENU"
+msgstr ""
+
+#: ../classes/action/DLMenuAdminBlogAction.php:44
+#: ../classes/action/DLMenuAdminHeaderAction.php:45
+#: ../classes/action/DLMenuAdminMenuAction.php:44
+#: ../classes/action/DLMenuAdminPageAction.php:44
+msgid "Saved"
+msgstr ""
+
+#: ../view/admin/admin_blog_options.php:2
+msgid "Blog options"
+msgstr ""
+
+#: ../view/admin/admin_blog_options.php:8
+msgid "Blog title"
+msgstr ""
+
+#: ../view/admin/admin_blog_options.php:13
+msgid "Enter blog title"
+msgstr ""
+
+#: ../view/admin/admin_blog_options.php:18
+msgid "Blog subtitle"
+msgstr ""
+
+#: ../view/admin/admin_blog_options.php:23
+msgid "Enter blog subtitle"
+msgstr ""
+
+#: ../view/admin/admin_blog_options.php:28
+#: ../view/admin/admin_header_options.php:147
+#: ../view/admin/admin_menu_options.php:175
+#: ../view/admin/admin_page_options.php:149
+msgid "Save Changes"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:2
+msgid "Header options"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:8
+msgid "Image preview"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:16
+msgid "Image path"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:21
+msgid "Enter header image path"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:26
+msgid "Image position x"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:31
+msgid "Enter position x in pixels"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:36
+msgid "Image position y"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:41
+msgid "Enter position y in pixels"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:46
+msgid "Video path"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:51
+msgid "Enter path to video"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:56
+msgid "Video click url"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:61
+msgid "Enter click url"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:66
+msgid "Video width"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:71
+msgid "Enter video width in pixels"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:76
+msgid "Video height"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:81
+msgid "Enter video height in pixels"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:86
+msgid "Video orientation"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:114
+msgid "Choose video orientation"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:119
+msgid "Video repeat"
+msgstr ""
+
+#: ../view/admin/admin_header_options.php:141
+msgid "Turn video repeat on/off"
+msgstr ""
+
+#: ../view/admin/admin_help.php:2
+#: ../view/admin/admin_submenu.php:7
+msgid "Help"
+msgstr ""
+
+#: ../view/admin/admin_help.php:4
+msgid "Installation"
+msgstr ""
+
+#: ../view/admin/admin_help.php:8
+msgid "Locate and upload the entire folder named \"dldefault\"  into your wp-content/themes/ directory."
+msgstr ""
+
+#: ../view/admin/admin_help.php:11
+msgid "Go to your WordPress administration area and click on Plugins and activate the plugin called \"DL-MENU\"."
+msgstr ""
+
+#: ../view/admin/admin_help.php:17
+msgid "License"
+msgstr ""
+
+#: ../view/admin/admin_help.php:22
+msgid "Buy a license:"
+msgstr ""
+
+#: ../view/admin/admin_help.php:25
+msgid "1 website license"
+msgstr ""
+
+#: ../view/admin/admin_help.php:27
+msgid "10 website license"
+msgstr ""
+
+#: ../view/admin/admin_help.php:32
+msgid "Do you like this plugin?"
+msgstr ""
+
+#: ../view/admin/admin_help.php:35
+msgid "Dave Ligthart has created many programs, websites, themes, templates and plugins"
+msgstr ""
+
+#: ../view/admin/admin_help.php:38
+msgid "This plugin is free for you to use and has been perfected over countless hours!"
+msgstr ""
+
+#: ../view/admin/admin_help.php:41
+msgid "<strong>A donation would be kindly appreciated</strong> or concider Dave Ligthart for your next project."
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:32
+msgid "Menu options"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:38
+msgid "Width"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:43
+msgid "Enter width in pixels"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:48
+msgid "Height"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:53
+msgid "Enter height in pixels"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:58
+msgid "Font"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:84
+msgid "Choose font"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:90
+msgid "Fontsize"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:95
+msgid "Choose fontsize"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:101
+msgid "Tab position y"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:106
+msgid "Set menu tab y position"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:111
+msgid "Tab corner radius"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:116
+msgid "Set tab corner radius in pixels"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:121
+msgid "Tab shadow"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:149
+msgid "Turn shadow on/off"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:154
+msgid "Tab spacing"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:159
+msgid "Set tab spacing in pixels"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:165
+msgid "Tab submenu width"
+msgstr ""
+
+#: ../view/admin/admin_menu_options.php:170
+msgid "Set tab submenu width in pixels"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:42
+msgid "Show Popular"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:45
+msgid "Show Random"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:90
+msgid "Color options"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:97
+msgid "Background Color"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:102
+msgid "Enter backgroundcolor hex e.g 000000"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:107
+msgid "Font Color"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:112
+#: ../view/admin/admin_page_options.php:143
+msgid "Enter fontcolor hex e.g CCCCCC"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:117
+msgid "Tab Shield Color"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:122
+msgid "Enter shieldcolor hex e.g CCCCCC"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:128
+msgid "Tab Color"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:133
+msgid "Enter tabcolor hex e.g CCCCCC"
+msgstr ""
+
+#: ../view/admin/admin_page_options.php:138
+msgid "Tab Font Color"
+msgstr ""
+
+#: ../view/admin/admin_submenu.php:3
+msgid "Colors"
+msgstr ""
+
+#: ../view/admin/admin_submenu.php:4
+msgid "Header"
+msgstr ""
+
+#: ../view/admin/admin_submenu.php:5
+msgid "Menu"
+msgstr ""
+
+#: ../view/admin/admin_submenu.php:6
+msgid "Title"
+msgstr ""
+
+#: ../view/admin/blocks/footer.php:14
+msgid "Some rights reserved"
+msgstr ""
+
+#: ../view/admin/blocks/footer.php:17
+msgid "Plugin by"
+msgstr ""
+
+#: ../view/admin/blocks/license.php:2
+msgid "DL-MENU is licensed under Creative Commons."
+msgstr ""
+
+#: ../view/admin/blocks/license.php:5
+msgid "It allows you to use, modify and redistribute the script for noncommercial purposes"
+msgstr ""
+
+#: ../view/admin/blocks/license.php:7
+msgid "For all other use, I sell commercial licenses. You should buy one if:"
+msgstr ""
+
+#: ../view/admin/blocks/license.php:10
+msgid "your site has ads (like Adsense or display banners) or"
+msgstr ""
+
+#: ../view/admin/blocks/license.php:11
+msgid "you don't want to attribute me or"
+msgstr ""
+
+#: ../view/admin/blocks/license.php:12
+msgid "you are a corporation (governmental/nonprofit use is free)"
+msgstr ""
+
+#: ../view/admin/blocks/license.php:14
+msgid "View the Creative Commons license"
+msgstr ""
+
+#: ../view/admin/blocks/license.php:14
+msgid "here"
+msgstr ""
+
+#: ../view/dlmenu/dlmenu_main.php:3
+msgid "This website requires the Adobe Flash Player."
+msgstr ""
+
+#: ../dlmenu_api.php:43
+msgid "DL-MENU plugin is not acivated."
+msgstr ""
+
+#: ../dlmenu_api.php:46
+msgid "Please"
+msgstr ""
+
+#: ../dlmenu_api.php:48
+msgid "activate"
+msgstr ""
+

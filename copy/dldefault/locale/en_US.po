@@ -1,0 +1,443 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kubrick\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-15 23:08+0100\n"
+"PO-Revision-Date: 2008-06-15 23:08+0100\n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: Dave Ligthart <info@daveligthart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../view/dlmenu\n"
+
+#: ../api.php:20
+msgid " The DL-MENU plugin isn't installed yet."
+msgstr ""
+
+#: ../api.php:30
+msgid "Please copy the \"dlmenu\" directory (which is packed along with this theme)"
+msgstr ""
+
+#: ../api.php:32
+msgid " to your \"wp-content/plugins\" folder"
+msgstr ""
+
+#: ../api.php:34
+msgid " or download it "
+msgstr ""
+
+#: ../api.php:38
+msgid " here"
+msgstr ""
+
+#: ../api.php:48
+msgid "Go to "
+msgstr ""
+
+#: ../api.php:52
+msgid "wp-admin"
+msgstr ""
+
+#: ../api.php:56
+msgid " to activate the plugin"
+msgstr ""
+
+#: ../functions.php:39
+msgid "Next posts &raquo;"
+msgstr ""
+
+#: ../functions.php:50
+msgid "&laquo; Previous posts"
+msgstr ""
+
+#: ../sidebar.php:6
+msgid "Please use the dynamic sidebar."
+msgstr ""
+
+#: ../view/dlmenu/404.php:2
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:9
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:11
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:13
+#: ../view/dlmenu/comments.php:37
+#: ../view/dlmenu/content.php:10
+msgid "F jS, Y"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:15
+msgid "F, Y"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:17
+msgid "Y"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:19
+msgid "Author Archive"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:21
+msgid "Blog Archives"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:26
+#: ../view/dlmenu/archive.php:46
+#: ../view/dlmenu/search.php:9
+#: ../view/dlmenu/search.php:26
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:27
+#: ../view/dlmenu/archive.php:47
+#: ../view/dlmenu/search.php:10
+#: ../view/dlmenu/search.php:27
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:32
+#: ../view/dlmenu/content.php:9
+#: ../view/dlmenu/search.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:33
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+msgid "l, F jS, Y"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#: ../view/dlmenu/single.php:19
+msgid "Tags:"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+msgid "Edit"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "No Comments &#187;"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "% Comments &#187;"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "Comments Closed"
+msgstr ""
+
+#: ../view/dlmenu/archive.php:52
+#: ../view/dlmenu/content.php:41
+msgid "Not Found"
+msgstr ""
+
+#: ../view/dlmenu/archives.php:5
+msgid "Archives by Month:"
+msgstr ""
+
+#: ../view/dlmenu/archives.php:10
+msgid "Archives by Subject:"
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:13
+#, php-format
+msgid "Permanent Link: %s"
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:17
+#: ../view/dlmenu/content.php:13
+#: ../view/dlmenu/single.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:19
+#: ../view/dlmenu/single.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:28
+#: ../view/dlmenu/single.php:28
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:32
+#: ../view/dlmenu/single.php:32
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:36
+#: ../view/dlmenu/single.php:36
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:40
+#: ../view/dlmenu/single.php:40
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:44
+#: ../view/dlmenu/single.php:44
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:46
+#: ../view/dlmenu/single.php:46
+msgid "Edit this entry."
+msgstr ""
+
+#: ../view/dlmenu/attachment.php:58
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:22
+msgid "Comments"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:24
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:27
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Comment"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Trackback"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Pingback"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:45
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:51
+msgid "No comments yet."
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:55
+msgid "Leave a comment"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:56
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:60
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:64
+#: ../view/dlmenu/comments.php:82
+msgid "Name"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:71
+msgid "E-mail"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:76
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:81
+msgid "Your Comment"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:87
+msgid "Say It!"
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:92
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:97
+msgid "Close this window."
+msgstr ""
+
+#: ../view/dlmenu/comments-popup.php:105
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../view/dlmenu/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:23
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:31
+#, php-format
+msgid "<cite>%s</cite> Says:"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../view/dlmenu/comments.php:37
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:37
+msgid "edit"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: ../view/dlmenu/comments.php:67
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:70
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../view/dlmenu/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: ../view/dlmenu/comments.php:77
+msgid "Log out of this account"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:77
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:82
+#: ../view/dlmenu/comments.php:85
+msgid "(required)"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:85
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:88
+msgid "Website"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:92
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr ""
+
+#: ../view/dlmenu/comments.php:96
+msgid "Submit Comment"
+msgstr ""
+
+#: ../view/dlmenu/content.php:42
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr ""
+
+#: ../view/dlmenu/links.php:4
+msgid "Links:"
+msgstr ""
+
+#: ../view/dlmenu/search.php:6
+msgid "Search Results"
+msgstr ""
+
+#: ../view/dlmenu/search.php:32
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: ../view/dlmenu/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../view/dlmenu/single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

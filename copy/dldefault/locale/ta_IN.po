@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kubrick-ta_In\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-15 11:14+0100\n"
+"PO-Revision-Date: 2008-06-15 11:14+0100\n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: S.K <skichu@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Tamil\n"
+"X-Poedit-Country: INDIA\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../view/dlmenu\n"
+
+#: ../functions.php:39
+#, fuzzy
+msgid "Next posts &raquo;"
+msgstr "புதிய இடுகைகள் &raquo;"
+
+#: ../functions.php:50
+msgid "&laquo; Previous posts"
+msgstr ""
+
+#: ../sidebar.php:23
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "நீங்கள் தற்போது %s பகுதியைப் பார்வையிடுகிறீர்கள்."
+
+#: ../sidebar.php:26
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "நீங்கள் தற்போது <a href=\"%1$s/\">%2$s</a> பதிவில் %3$s தேதியில் பதிவாகிய இடுகைகளைப் பார்வையிடுகிறீர்கள்.."
+
+#: ../sidebar.php:26
+msgid "l, F jS, Y"
+msgstr "l, F j, Y"
+
+#: ../sidebar.php:29
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "நீங்கள் தற்போது <a href=\"%1$s/\">%2$s</a> பதிவின் %3$s மாததிற்கான பெட்டகத்தைப் பார்வையிடுகிறீர்கள்.."
+
+#: ../sidebar.php:29
+msgid "F, Y"
+msgstr "F, Y"
+
+#: ../sidebar.php:32
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "நீங்கள் <a href=\"%1$s/\">%2$s</a>பதிவின் %3$s ஆண்டுக்கான பெட்டகத்தை பார்வையிடுகிறீர்கள்."
+
+#: ../sidebar.php:35
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "நீங்கள் <a href=\"%1$s/\">%2$s</a> பதிவில் தேடிய பெட்டகக் குறியீடு: <strong>&#8216;%3$s&#8217;</strong>. நீங்கள் தேடியவை கிட்டவில்லையானால் இந்த சுட்டிகளை முயற்சிக்கலாம்."
+
+#: ../sidebar.php:38
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "தற்போது நீங்கள் <a href=\"%1$s/\">%2$s</a> இடுகைப் பெட்டகத்தைப் பார்வையிட்டுக்கொண்டிருக்கிறீர்கள்.."
+
+#: ../sidebar.php:44
+msgid "Pages"
+msgstr "பக்கங்கள்"
+
+#: ../sidebar.php:52
+msgid "Categories"
+msgstr "பகுதிகள்"
+
+#: ../view/dlmenu/archive.php:9
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "&#8216;%s&#8217; பகுதியிலுள்ள இடுகைகள்"
+
+#: ../view/dlmenu/archive.php:11
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "&#8216;%s&#8217; குறிச்சொல்லிடப்பட்ட இடுகைகள்"
+
+#: ../view/dlmenu/archive.php:13
+#: ../view/dlmenu/comments.php:37
+#: ../view/dlmenu/content.php:10
+msgid "F jS, Y"
+msgstr "F j, Y"
+
+#: ../view/dlmenu/archive.php:17
+msgid "Y"
+msgstr "Y"
+
+#: ../view/dlmenu/archive.php:26
+#: ../view/dlmenu/archive.php:46
+#: ../view/dlmenu/search.php:9
+#: ../view/dlmenu/search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; முந்தைய இடுகைகள்"
+
+#: ../view/dlmenu/archive.php:27
+#: ../view/dlmenu/archive.php:47
+#: ../view/dlmenu/search.php:10
+#: ../view/dlmenu/search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "புதிய இடுகைகள் &raquo;"
+
+#: ../view/dlmenu/archive.php:32
+#: ../view/dlmenu/content.php:9
+#: ../view/dlmenu/search.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "நிரந்தரச் சுட்டி: %s"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#: ../view/dlmenu/single.php:19
+msgid "Tags:"
+msgstr "குறிச்சொற்கள்:"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+#, php-format
+msgid "Posted in %s"
+msgstr "இடப்பட்டுள்ள பகுது: %s"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:16
+#: ../view/dlmenu/search.php:20
+msgid "Edit"
+msgstr "மாற்றுக"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "No Comments &#187;"
+msgstr "மறுமொழி இல்லை &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "1 Comment &#187;"
+msgstr "மறுமொழி ஒன்று &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+msgid "% Comments &#187;"
+msgstr "% மறுமொழிகள் &#187;"
+
+#: ../view/dlmenu/archive.php:39
+#: ../view/dlmenu/content.php:19
+#: ../view/dlmenu/search.php:20
+#, fuzzy
+msgid "Comments Closed"
+msgstr "மறுமொழியிடுதல் நிறுத்தப்பட்டுள்ளது."
+
+#: ../view/dlmenu/attachment.php:13
+#, php-format
+msgid "Permanent Link: %s"
+msgstr "நிரந்தரச் சுட்டி: %s"
+
+#: ../view/dlmenu/attachment.php:17
+#: ../view/dlmenu/content.php:13
+#: ../view/dlmenu/single.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "மிகுதியையும் வாசிக்க &raquo;"
+
+#: ../view/dlmenu/attachment.php:19
+#: ../view/dlmenu/single.php:18
+msgid "Pages:"
+msgstr "பக்கங்கள்:"
+
+#: ../view/dlmenu/attachment.php:27
+#: ../view/dlmenu/single.php:27
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr "இந்த இடுகை எழுதப்பட்ட நேரம்: %3$s. நாள்: %2$s. எழுதியது:  %1$s. சார்ந்த பகுதி: %4$s."
+
+#: ../view/dlmenu/attachment.php:28
+#: ../view/dlmenu/single.php:28
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "இந்த இடுகையில் இடப்படும் மறுமொழிகளை <a href='%s'>RSS 2.0</a> செய்தியோடை மூலம் பெறலாம்."
+
+#: ../view/dlmenu/attachment.php:32
+#: ../view/dlmenu/single.php:32
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "நீங்கள் இங்கே உங்கள் <a href=\"#respond\">கருத்தை பதியலாம்</a>, அல்லது உங்கள் வலைப்பதிவிலிருந்து <a href=\"%s\" rel=\"trackback\">பின்னிணைப்பு</a> செய்யலாம்."
+
+#: ../view/dlmenu/attachment.php:36
+#: ../view/dlmenu/single.php:36
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "மறுமொழியிடுவது நிறுத்தப்பட்டுள்ளது, ஆனால் உங்கள் தளத்திலிருந்து <a href=\"%s\" rel=\"trackback\">பின்னிணைப்பு</a> கொடுக்கலாம்."
+
+#: ../view/dlmenu/attachment.php:46
+#: ../view/dlmenu/single.php:46
+msgid "Edit this entry."
+msgstr "இடுகையை மாற்றுக."
+
+#: ../view/dlmenu/comments-popup.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - இடுகை: %2$s மறுமொழிகள்"
+
+#: ../view/dlmenu/comments-popup.php:27
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "இந்த இடுகையின் பின்னிணைப்புச் சுட்டியின் <abbr title=\"Universal Resource Locator\">உரல்</abbr> இது: <em>%s</em>"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Comment"
+msgstr "மறுமொழி"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Trackback"
+msgstr "பின்னிணைப்பு"
+
+#: ../view/dlmenu/comments-popup.php:45
+msgid "Pingback"
+msgstr "\"பிங்\" இணைப்பு"
+
+#: ../view/dlmenu/comments-popup.php:45
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "பதித்தவர் %1$s &#8212; நாளும் நேரமும்: %2$s &#8212; <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: ../view/dlmenu/comments-popup.php:56
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "வரிசையும் பாராவும் தானாகத் தோன்றிவிடும். உங்கள் மின்னஞ்சலை வெளியிடமாட்டோம். அனுமதிக்கப்பட்ட <acronym title=\"Hypertext Markup Language\">HTML</acronym> குறிகள்: <code>%s</code>"
+
+#: ../view/dlmenu/comments-popup.php:60
+#, fuzzy, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "உங்கள் நுழைவு நிலை: <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"கிளிக்கினால் வெளியேறலாம்\">வெளியேற &raquo;</a>"
+
+#: ../view/dlmenu/comments-popup.php:105
+#, fuzzy, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "இந்த வலைப்பதிவு <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>வோர்ட்பிரஸ்</strong></a> கொண்டு உருவாக்கப்பட்டது."
+
+#: ../view/dlmenu/comments.php:23
+msgid "No Responses"
+msgstr "மறுமொழி இனிமேல்தான்"
+
+#: ../view/dlmenu/comments.php:23
+msgid "One Response"
+msgstr "மறுமொழி ஒன்று"
+
+#: ../view/dlmenu/comments.php:23
+msgid "% Responses"
+msgstr "% மறுமொழிகள்"
+
+#: ../view/dlmenu/comments.php:23
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "இடுகையின் தலைப்பு: &#8220;%s&#8221;"
+
+#: ../view/dlmenu/comments.php:31
+#, php-format
+msgid "<cite>%s</cite> Says:"
+msgstr "<cite>%s</cite> கூறுவது:"
+
+#: ../view/dlmenu/comments.php:37
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "இட்ட நாள்: %1$s நேரம்: %2$s"
+
+#: ../view/dlmenu/comments.php:37
+msgid "edit"
+msgstr "மாற்றுக"
+
+#: ../view/dlmenu/comments.php:70
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "மறுமொழியிட நீங்கள் <a href=\"%s\">உட்புக வேண்டும்</a>."
+
+#: ../view/dlmenu/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "உங்கள் நுழைவு நிலை: <a href=\"%1$s\">%2$s</a>."
+
+#: ../view/dlmenu/comments.php:92
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "நீங்கள் பயன்படுத்தக் கூடிய <strong>XHTML:</strong>  குறிகள்: <code>%s</code>"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "நீங்கள் கேட்டது இந்த வலைப்பதிவில் இல்லையே!"
+#~ msgid "Archive for %s"
+#~ msgstr "பெட்டகத்திலிருக்கும் இடுகைகள் %s"
+#~ msgid "Author Archive"
+#~ msgstr "படைப்பாளர் எழுதியவை"
+#~ msgid "Blog Archives"
+#~ msgstr "பெட்டகத்திலமைந்த இடுகைகள்"
+#~ msgid "Tags: "
+#~ msgstr "குறிச் சொற்கள்:"
+#~ msgid "Not Found"
+#~ msgstr "கிடைக்கவில்லை"
+#~ msgid "Archives by Month:"
+#~ msgstr "மாதப்பகுப்பின் பெட்டகம்:"
+#~ msgid "Archives by Subject:"
+#~ msgstr "தலைப்பின்பால் அமைந்த பெட்டகம்:"
+#~ msgid ""
+#~ "You can skip to the end and leave a response. Pinging is currently not "
+#~ "allowed."
+#~ msgstr ""
+#~ "இடுகையின் முடிவுக்குச் சென்று மறுமொழி இடலாம். ஆனால் \"பிங்\" செய்வது "
+#~ "நிறுப்பட்டுள்ளது."
+#~ msgid "Both comments and pings are currently closed."
+#~ msgstr "மறுமொழியிடுதலும், \"பிங்\" செய்வதும் நிறுத்தப்பட்டுள்ளன."
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr "நீங்கள் தேடிய பின்னிணைப்பு ஏதும் கிட்டவில்லையே!"
+#~ msgid "Please do not load this page directly. Thanks!"
+#~ msgstr "இந்த வலைப் பக்கத்திற்கு நேரடியாக வர இயலாது. நன்றி!"
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr "இந்த இடுகையைக் காண கடவுச் சொல் தேவை."
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "உங்கள் மறுமொழி மட்டுறுத்தலுக்காக காத்திருக்கிறது!"
+#~ msgid "Leave a Reply"
+#~ msgstr "உங்கள் கருத்துக்களைப் பதியுங்கள்"
+#~ msgid "Log out of this account"
+#~ msgstr "உள்ளமைப்பிலிருந்து வெளியேற"
+#~ msgid "Logout &raquo;"
+#~ msgstr "வெளியேறுக &raquo;"
+#~ msgid "Name"
+#~ msgstr "பெயர்"
+#~ msgid "(required)"
+#~ msgstr "(அவசியம்)"
+#~ msgid "Mail (will not be published)"
+#~ msgstr "மின்னஞ்சல் (வெளியிடமாட்டோம்!)"
+#~ msgid "Website"
+#~ msgstr "வலைத்தளம்"
+#~ msgid "Submit Comment"
+#~ msgstr "மறுமொழியை செலுத்துக"
+#~ msgid "Comments"
+#~ msgstr "மறுமொழிகள்"
+#~ msgid ""
+#~ "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+#~ "this post."
+#~ msgstr ""
+#~ "இந்த இடுகையிலுள்ள மறுமொழிகளின் <abbr title=\"Really Simple Syndication"
+#~ "\">RSS</abbr> செய்தியோடை."
+#~ msgid "No comments yet."
+#~ msgstr "மறுமொழி இனிமேல்தான்."
+#~ msgid "Leave a comment"
+#~ msgstr "மறுமொழி இடுக"
+#~ msgid "E-mail"
+#~ msgstr "மின்னஞ்சல்"
+#~ msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+#~ msgstr "<abbr title=\"Universal Resource Locator\">உரல்</abbr>"
+#~ msgid "Your Comment"
+#~ msgstr "உங்கள் மறுமொழி"
+#~ msgid "Say It!"
+#~ msgstr "பதியுங்கள்!"
+#~ msgid "Sorry, the comment form is closed at this time."
+#~ msgstr "மன்னிக்க. மறுமொழிப் பெட்டி மூடப்பட்டுள்ளது."
+#~ msgid "Close this window."
+#~ msgstr "இந்த சாளரத்தை மூடுக."
+#~ msgid "%1$s is proudly powered by %2$s"
+#~ msgstr "%1$s பதிவை இயக்குவது %2$s"
+#~ msgid "%1$s and %2$s."
+#~ msgstr "%1$s மற்றும் %2$s."
+#~ msgid "Entries (RSS)"
+#~ msgstr "இடுகைகளின் (RSS)"
+#~ msgid "Comments (RSS)"
+#~ msgstr "மறுமொழிகள் (RSS)"
+#~ msgid "%d queries. %s seconds."
+#~ msgstr "%d வழங்கித் தொடர்புகள். %s நொடிகள்."
+#~ msgid "Customize Header"
+#~ msgstr "மேல் முகப்பை மாற்றுக"
+#~ msgid "Header Image and Color"
+#~ msgstr "முகப்புப் படமும் வண்ணமும்"
+#~ msgid "Close Color Picker"
+#~ msgstr "வண்ணத்தேர்வுப் பெட்டியை மூடுக"
+#~ msgid "Options saved."
+#~ msgstr "தேர்வுகள் தொகுக்கப்பட்டன."
+#~ msgid "Save"
+#~ msgstr "சேமிக்க"
+#~ msgid "Font Color:"
+#~ msgstr "எழுத்து வண்ணம்:"
+#~ msgid "Any CSS color (%s or %s or %s)"
+#~ msgstr "ஏதேனுமொரு CSS வண்ணம் (%s அல்லது %s அல்லது %s)"
+#~ msgid "Upper Color:"
+#~ msgstr "மேல் முகப்பு வண்ணம்:"
+#~ msgid "HEX only (%s or %s)"
+#~ msgstr "HEX குறி மட்டும் (%s அல்லது %s)"
+#~ msgid "Lower Color:"
+#~ msgstr "கீழ் வண்ணம்:"
+#~ msgid "Toggle Text"
+#~ msgstr "எழுத்து மாற்றம்"
+#~ msgid "Use Defaults"
+#~ msgstr "இயல்புகளை ஏற்க"
+#~ msgid "Font Color"
+#~ msgstr "எழுத்து வண்ணம்"
+#~ msgid "Upper Color"
+#~ msgstr "மேல் முகப்பு வண்ணம்"
+#~ msgid "Lower Color"
+#~ msgstr "கீழ் முகப்பு வண்ணம்"
+#~ msgid "Revert"
+#~ msgstr "மாற்றங்களை நீக்க"
+#~ msgid "Advanced"
+#~ msgstr "மேலதிக நிலை"
+#~ msgid "Update Header &raquo;"
+#~ msgstr "மேல் முகப்பை தொகுக்க &raquo;"
+#~ msgid "Font Color (CSS):"
+#~ msgstr "எழுத்தின் வண்ணம் (CSS):"
+#~ msgid "Upper Color (HEX):"
+#~ msgstr "முகப்பின் மேல் வண்ணம் (HEX):"
+#~ msgid "Lower Color (HEX):"
+#~ msgstr "முகப்பின் கீழ் வண்ணம் (HEX):"
+#~ msgid "Select Default Colors"
+#~ msgstr "வண்ணத்தை தேர்ந்தெடுக்க"
+#~ msgid "Toggle Text Display"
+#~ msgstr "தலைப்புச் செய்தியை மாற்றுக"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; வலை இடுகை"
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s RSS செய்தியோடை"
+#~ msgid "Sorry, but you are looking for something that isn&#8217;t here."
+#~ msgstr "மன்னிக்க. நீங்கள் தேடியவை இங்கு இல்லை."
+#~ msgid "Links:"
+#~ msgstr "சுட்டிகள்:"
+#~ msgid "Read the rest of this page &raquo;"
+#~ msgstr "மிகுதியையும் வாசிக்க &raquo;"
+#~ msgid "Search"
+#~ msgstr "தேடுக"
+#~ msgid "Search Results"
+#~ msgstr "நீங்கள் தேடியவை"
+#~ msgid "No posts found. Try a different search?"
+#~ msgstr "ஒரு இடுகையும் கிட்டவில்லை. மீண்டும் தேடுங்களேன்?"
+#~ msgid "Author"
+#~ msgstr "ஆக்கியோர்"
+#~ msgid "Archives"
+#~ msgstr "பெட்டகம்"
+#~ msgid "Meta"
+#~ msgstr "அடிப்படை"
+#~ msgid "This page validates as XHTML 1.0 Transitional"
+#~ msgstr "\"XHTML 1.0 Transitional\" தர உறுதி செய்யப்பட்டது."
+#~ msgid ""
+#~ "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+#~ msgstr ""
+#~ "தரமான <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr> "
+#~ "உருவாக்கம்."
+#~ msgid "XHTML Friends Network"
+#~ msgstr "நிரல் நண்பர் குழுமம்"
+#~ msgid "XFN"
+#~ msgstr "நண்பர் நிலை"
+#~ msgid ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgstr ""
+#~ "இந்த வலைப்பதிவு \"வோர்ட்பிரஸ்\" என்னும் சிறந்த திறமூல பரிநிரல் சேவையால் "
+#~ "ஆக்கப்பட்டுள்ளது."
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "மன்னிக்கவும். நீங்கள் தேடிய இடுகை ஏதும் இங்கு இல்லை."
+
